@@ -1,36 +1,36 @@
-# Local Preservation School
-Local Preservation School: Tools, resources, and tutorials for saving historic places in your community. This repo contains [our project website](https://localpreservation.github.io). We are continuing to develop our [Local Preservation 101 course](https://github.com/localpreservation/course-in-a-box), the [Local Preservation handbook](https://github.com/localpreservation/handbook) and guidelines for contributors.
 
-## What is the Local Preservation School?
+## Alex Snow School 
+ 
+**A Youths' run school for empowering the next generation towards Myanmar economic and technological advancement.**
 
-The Local Preservation School is an **open learning environment** where preservation advocates and volunteers share with people how to save and sustain historic places in their communities. Our goal is to teach you how to get involved with historic preservation in your community through free online courses, easy-to-use tutorials and fun projects. **Beginners are welcome!**
+- [Falling Wall Lab Myanmar 2020 Winner](https://www.freiheit.org/yangon/falling-walls-lab-myanmar-2020)
+- [Gold Medal in Startup Category @ RICES MMU 2020](https://drive.google.com/file/d/1E7oaWmE9dL6iKVsMDkV77UqsnjFA_fUY/view?usp=sharing)
 
-[Learn more about the Local Preservation School :point_right:](https://localpreservation.github.io/about/)
+Getting decent employment in STEM fields is still very difficult for fresh graduates from rural technical universities and even from some of the famous public technological universities in Myanmar even though the private sectors are in need of manpower resources for the technological know-how for digital transformation.
 
-## How can you contribute?
+The two main reasons why technological university fresh graduates in Myanmar find it difficult to get a decent job are are due to-
 
-If any of the following is true, we encourage you to contribute to the Local Preservation School project:
+ - a need for quality education especially in rural technical universities, and
+ - the lack of experiences and required up-to-date technological skill-sets.
+ 
+The project plans to tickle the skills-gap for fresh STEM graduates with long term and impact-based solutions utilizing peer-to-peer community learning approaches by learning and doing projects to develop technical skill-sets while solving social problems.
 
-- You have expertise in historic preservation, cultural heritage, public history, or related topics
-- You want share your knowledge as part of a collaborative open source community
-
-This repository describes the project and collects relates resources and lessons into a single site. You can also contribute to a specific course, our [handbook](https://github.com/localpreservation/handbook/), or our [resource repository](https://github.com/localpreservation/resources).
-
-[Read our Contribution Guidelines :point_right:](https://github.com/localpreservation/localpreservation.github.io/blob/master/CONTRIBUTING.md)
+The project also plans to tickle the lack of financial literacy among millennials and young professionals to enhance their awareness on personal finance as well as early investment for the future.
 
 
-## Licensing
+အခုခေတ်မှာ မိမိတို့လို့ ကျောင်းပြီးပြီးချင်း လူငယ်တွေ အလုပ်အကိုင် ရှာဖွေတဲ့အခါ မြန်မာနိုင်ငံမှာ လူငယ်များအတွက် အလုပ်အကိုင်အခွင့်အလမ် အရမ်းနည်းပါးနေပါတာကို သတိပြုမိပါတယ်။
 
-All the online materials are **free** and **open**. What does open mean? The [Open Knowledge Foundation explains](http://opendefinition.org/):
+ဒါအပြင့် မိမိတို့ လူငယ်တွေ ဘက်က ကြည့်မယ်ဆိုရင်လည် ကျောင်းတက်နေစဉ်အတောအတွင်း မိမိတို့ လုပ်ချင်တဲ့ အလုပ်ကို လျှောက်ဖို့ရာ လိုအပ်လာမယ့် skill-sets တွေကို လေ့လာလိုက်စားမှုတွေ လူငယ်တွေမှာ အရမ်းနည်းနေသေးတာကို သတိပြုမိပါတယ်။
 
->“Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).”
+အဲဒါတွေသာမက အလုပ်လုပ်နေပြီဆိုပါကလဲ မိမိတို့ ရတဲ့ လစာလေးကို နည်းနည်းစီ စုထားပြီး ပြန်လည် တိုးပွားအောင် လုပ်နိုင်ဖို့ရာ လုပ်ရမဲ့ နည်းလမ်းတွေကို ရှာဖွေရတာ အရမ်းခက်ပါတယ်။
 
-In support of this principle, resources developed by the Local Preservation School team are published under a [Creative Commons Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). In some cases, we have adapted existing resources published under a Creative Commons Attribution or Share-Alike license where additional requirements may apply to future reuse. This site is published using the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) which is available under an [MIT License](https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE).
+အထူးသဖြင့် မြန်မာနိုင်ငံမှာဆိုရင် ကိုယ့်ကို လိမ်သွားမယ့် စီးပွားရေးလုပ်ငန်းတွေက ခပ်များများရယ်ပါ။ ဘယ် စီးပွားရေးကို မိမိတို့ ရင်နှီးမြှပ်နှံ့ သင့်လဲ လို့ ဆုံဖြတ်နိုင်ဖို့ ကြပြန်တော့လဲ လိုအပ်တဲ့ စီးပွားရေး အသိပညာတွေ မိမိ တို့ လူငယ်တွေစီ မှာ အရမ်းနည်းပါးနေပါတယ်။
 
-## Project Team
+အဲဒါကြောင့် မို့လို့ ဒီ project လေးက လူငယ်တွေ -
 
-This project is led by [Eli Pousson](https://github.com/elipousson), Director of Preservation & Outreach for [Baltimore Heritage](https://baltimoreheritage.org/). We are currently recruiting partners, volunteer contributors and project advisors! If you are interested in getting involved, please get in touch with Eli by email at **pousson@baltimoreheritage.org** or (on Twitter) [@elipousson](https://twitter.com/elipousson/).
+ - အခုလောလောဆယ် ခေတ်စားနေတဲ့ နည်းပညာအသစ်တွေကို လေ့လာနိုင်ရေး၊
+ - စီးပွားရေးနဲ့ ဆိုင်တဲ့ အသိပညာ တိုးပွားလာရေး၊
+ 
+စသည်တို့ဖြင့် မိမိတို့ လူငယ်များ မိမိတို့ အနာဂတ်အတွက် ပိုမို ကောင်းမွန်လာရန် လူငယ်များ ကိုယ်တိုင် ကြိုးစားရာမှာ အထောက်အကူ တစ်ခုအဖြင့် တည်ထောင်းလိုက်ခြင်းဖြစ်ပါတယ်။
 
-## Project Funding
-
-This project is supported by funding from the National Park Service/National Conference of State Historic Preservation Officers.
+> **_တစ်ရက်နည်းနည်းစီ တဖြည်းဖြည်း အတူတူလေ့လာကြစို့။_**
