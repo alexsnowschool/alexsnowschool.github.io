@@ -1,0 +1,45 @@
+---
+layout: splash
+permalink: /
+date:
+header:
+  overlay_image: /assets/images/school.jpg
+  overlay_filter: .5
+  cta_label: "Explore our Courses <i class='fas fa-chevron-circle-right'></i>"
+  cta_url: "https://alexsnowschool.github.io/resources/"
+  caption:
+excerpt: 'A Youths led school for empowering the next generation towards Myanmar economic and technological advancement'
+feature_row:
+  - image_path: /assets/images/12881v.jpg
+    alt: "about"
+    title: "About the school"
+    excerpt: "The Local Preservation School is a community-based project with opportunities for people from all backgrounds to take part."
+    url: "/about/"
+    btn_label: "Learn More"
+  - image_path: /assets/images/18659u.jpg
+    alt: "teach"
+    title: "Tools for teaching"
+    excerpt: "Our resources can be reused and adapted for workshops, trainings, and courses. Please explore our collection and or share your own educational resources."
+    url: "/teach/"
+    btn_label: "Learn More"
+  - image_path: /assets/images/11929u.jpg
+    alt: "100% free"
+    title: "Free and open education"
+    excerpt: "Open educational resources are teaching and learning materials that are free and online for everyone: teachers, students, and independent learners."
+    url: "/open-education/"
+    btn_label: "Learn More"
+intro:
+  - excerpt: 'Follow for updates on the school &nbsp; [<i class="fab fa-twitter"></i> @alexsnowschool](https://twitter.com/alexsnowschool){: .btn .btn--twitter}'
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
