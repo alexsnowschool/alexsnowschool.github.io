@@ -2,14 +2,16 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Resources"
+  - title: "Courses"
     url: /resources/
-  - title: "Tools"
-    url: /tools/
-  - title: "Learn"
+  - title: "Tutorials"
     url: /learn/
-  - title: "Teach"
-    url: /teach/
+  - title: "Blog"
+    url: https://alexsnow348.github.io/
+
+  # - title: "Teach"
+  #   url: /teach/
+
 
 # Resource navigation menus
 

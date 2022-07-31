@@ -2,12 +2,12 @@
 layout: single
 title: About
 permalink: /about/
-excerpt: 'The Local Preservation School is an **open learning environment** where preservation advocates and volunteers share with people how to save and sustain historic places in their communities.'
+excerpt: "A Youths' run school for empowering the next generation towards Myanmar economic and technological advancement."
 header:
-  teaser: /assets/images/12881v.jpg
-  overlay_image: /assets/images/12881v.jpg
-  overlay_filter: .5
-  caption: "Desegregation landmark, Little Rock Central High School, Little Rock, Arkansas by Carol Highsmith. _Courtesy [Library of Congress](https://www.loc.gov/pictures/highsm.12881/resource/)._"
+  teaser: /assets/images/HeroImage.png
+  overlay_image: /assets/images/HeroImage.png
+  overlay_filter: .3
+  caption:
 ---
 
 The Local Preservation School project is taking a break from active development with the conclusion of our funding from the National Park Service and National Conference of State Historic Preservation Officers in February 2017. We are still accepting [comments and feedback](https://localpreservation.github.io/alexsnowschool-open-review/) on our [resource directory](https://localpreservation.github.io/resources/) and [tool library](https://localpreservation.github.io/tools/). You are also welcome to [create a new issue on GitHub](https://github.com/localpreservation/localpreservation.github.io/issues/) or suggest changes with a [pull request](https://github.com/localpreservation/localpreservation.github.io/pulls). Please read and comment on our [draft summary report](https://docs.google.com/document/d/1-ZDXRF2SDic85YNvoZXEeN-NZjJxDmlbukLwB_ZQM3I/edit?usp=sharing) and [sign up for future updates](http://tinyletter.com/localpreservation/) about the project.

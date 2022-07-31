@@ -4,10 +4,11 @@ title: Learn
 permalink: /learn/
 excerpt: 'Learn how to save historic places with courses, tutorials, and educational resources from the Local Preservation School.'
 header:
-  teaser: /assets/images/30602v.jpg
-  overlay_image: /assets/images/30602v.jpg
-  overlay_filter: .5
-  caption: "Marine School at Log Cabin Village, Fort Worth, Texas by Carol Highsmith. _Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2015630838/resource/)._"
+  teaser: /assets/images/HeroImage.png
+  overlay_image: /assets/images/HeroImage.png
+  overlay_filter: .3
+  caption:
+  caption:
 resources_feature:
 - image_path: /assets/images/27661222071_d149288f9e_k-square.jpg
   alt: "Firehouse in New York City"

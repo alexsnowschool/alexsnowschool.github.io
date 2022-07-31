@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Snow School"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "..."
   location         : "Yangon, Myanmar"
   email            : "alexsnow348@gmail.com"
