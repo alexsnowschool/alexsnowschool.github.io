@@ -1,20 +1,18 @@
 ---
 layout: single
-title: "About our Resources"
+title: "About our Courses"
 excerpt: "How the Local Preservation School makes resources accessible and available to educators and learners."
 permalink: /courses/about/
 ---
 
-The Local Preservation School resource collection is a directory of websites, publications, and online tools for people interested in learning about or teaching historic preservation. The resources cover a broad range of topics.
+The Alex Snow School resource collection is a directory of websites, publications, and online tools for people interested in learning about update-to-date technologies. The resources cover a broad range of topics.
 
 They include both:
 
-- online resources developed or adapted for publication by the Local Preservation School project;
+- online resources developed or adapted for publication by the Alex Snow School project;
 - publications or websites we found useful and thought you would too.
 
-We published some of our resources (e.g. the National Park Service brief on [architectural investigation](/resources/architectural-investigation/)) directly on this website. Other resources (e.g. the City Lore Toolkit on [advocacy for historic places](https://localpreservation.github.io/placematters/)) are published on stand-alone websites. Each resource is described with general criteria and using criteria that are especially useful for educators and learners.
-
-## Resource information
+## Courses information
 
 Our directory describes each resource using these criteria:
 
@@ -23,11 +21,11 @@ Our directory describes each resource using these criteria:
 - License
 - Publication date (earliest)
 - Modification date (most recent)
-- Resource state
-- Resource repository (if available)
+- Course state
+- Course repository (if available)
 - Based on URL (if available)
 
-### Resource state
+### Courses state
 
 We use badges to show the state of each project we're developing or including in the directory. These badges include:
 

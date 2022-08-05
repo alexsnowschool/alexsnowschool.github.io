@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 remote_theme             : "mmistakes/minimal-mistakes"
 
@@ -55,6 +55,9 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 
+logo: "/assets/images/logo.png"
+masthead_title: ""
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -87,7 +90,7 @@ analytics:
 author:
   name             : "Alex Snow School"
   avatar           : "/assets/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "..."
+  bio              : "A Youths' run school for empowering the next generation towards Myanmar economic and technological advancement"
   location         : "Yangon, Myanmar"
   email            : "alexsnow348@gmail.com"
   uri              :
@@ -183,7 +186,7 @@ paginate: 8 # amount of posts to show
 paginate_path: /page:num/
 timezone: "Asia/Rangoon" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
+masthead: false
 # Plugins
 plugins:
   - jekyll-paginate

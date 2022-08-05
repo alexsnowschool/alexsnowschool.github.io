@@ -1,41 +1,44 @@
 ---
-title: Roofing for Historic Buildings
-excerpt: The resource discusses the benefits of regular inspections, monitoring, and seasonal maintenance work; provides general guidance on maintenance treatments for historic building exteriors; and emphasizes the importance of keeping a written record of completed work.
+title: Introduction to Machine Learning
+excerpt: AI ကို စတင်ခြေလှမ်းဖို့အတွက် Deep Learning မလေ့လာခင် Machine Learning ရဲ့ basics တွေ ဖြစ်တဲ့ ML Algorithms ၊ ကိုယ် train ချင်တဲ့ Datasets အကြောင်း၊ Accuracy နဲ့ Loss ဆိုတာတွေ အစရှိတဲ့ Theory and Basics တွေအကြောင်းသင်ကြားပေးမှာဖြစ်ပါတယ်။
 publisher:
-  - National Park Service
+  - Alex Snow School
 creator:
-  - Sarah M. Sweetser
-date: 1978-02-01
-modified: 2017-07-10
-difficulty: Intermediate
+  - Thet Naing Tun
+  - Zaw Min Khaing 
+date: 2020-02-01
+modified: 2022-07-10
+difficulty: Beginner
 state: "ready"
 license: PD
 audience:
-  - preservation-professionals
-  - related-professionals
-  - owners
+  - computer-science-students
+  - it-professionals
+  - ml-ai-enthusiasts
 interactivity: Expository
 resource_type: Publication
-based_url: https://www.nps.gov/tps/how-to-preserve/briefs/4-roofing.htm
+based_url: 
 topic:
-  - Design
+  - Machine-Learning-and-AI
 tags:
-  - maintenance
+  - Machine Learning & AI
 header:
-  teaser: /assets/images/15653u-1280-square.jpg
-  overlay_image: /assets/images/15653u-1280-square.jpg
-  overlay_filter: .5
-  caption: "Rehabilitation of a building's mansard roof in Washington, D.C., by Carol M. Highsmith. [Library of Congress](http://www.loc.gov/pictures/item/2011633846/) (PD)."
+  teaser: /assets/images/intro_to_ml_square.jpg
+  overlay_image: /assets/images/HeroImage.png
+  overlay_filter: .2
+  caption: 
 anchor: true
 annotate: true
 ---
 
-Editorial note: The headings of this preservation brief have been revised for clarity. This publication is nearly forty years old so some references may be outdated. 
-{: .notice--info}
+<!-- Editorial note: The headings of this preservation brief have been revised for clarity. This publication is nearly forty years old so some references may be outdated. 
+{: .notice--info} -->
 
 {% include toc title="Contents" %}
 
 ## What is the significance of the roof on a historic building?
+
+{% include video id="oqr6Kh6ywQk" provider="youtube" %}
 
 A weather-tight roof is basic in the preservation of a structure, regardless of its age, size, or design. In the system that allows a building to work as a shelter, the roof sheds the rain, shades from the sun, and buffers the weather.
 

@@ -1,0 +1,14 @@
+/* Colors 
+ * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
+ */
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+
+$serif              : "Padauk", Georgia, Times, serif;
+$sans-serif-narrow  :  'Padauk', sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
