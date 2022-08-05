@@ -2,7 +2,7 @@
 layout: single
 title: "About our Resources"
 excerpt: "How the Local Preservation School makes resources accessible and available to educators and learners."
-permalink: /resources/about/
+permalink: /courses/about/
 ---
 
 The Local Preservation School resource collection is a directory of websites, publications, and online tools for people interested in learning about or teaching historic preservation. The resources cover a broad range of topics.

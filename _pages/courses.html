@@ -1,8 +1,8 @@
 ---
-layout: resource-directory
-title: Resources
-permalink: /resources/
-excerpt: 'Find, reuse, and remix educational resources created and collected by the Local Preservation School.'
+layout: course-directory
+title: Courses
+permalink: /courses/
+excerpt: 'Find, reuse, and remix educational courses created and collected by the Local Preservation School.'
 header:
   teaser: /assets/images/18659u.jpg
   overlay_image: /assets/images/HeroImage.png
@@ -13,30 +13,30 @@ sidebar:
 ---
 
 <div class="grid">
-  {% for resource in site.resources %}
-  <div class="grid-item {{ resource.topic | join: ' ' }}">
+  {% for course in site.courses %}
+  <div class="grid-item {{ course.topic | join: ' ' }}">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <!--<div class="align-right grid-img">
         <img src=
-            {% if resource.header.teaser contains "://" %}
-              "{{ resource.header.teaser }}"
+            {% if course.header.teaser contains "://" %}
+              "{{ course.header.teaser }}"
             {% else %}
-              "{{ resource.header.teaser | absolute_url }}"
+              "{{ course.header.teaser | absolute_url }}"
             {% endif %}
             alt="">
       </div>-->
       <h2 class="archive__item-title" itemprop="headline">
-          <a href="{{ resource.url | absolute_url }}" rel="permalink">{{ resource.title }}</a>
+          <a href="{{ course.url | absolute_url }}" rel="permalink">{{ course.title }}</a>
       </h2>
       <p class="page__meta">
-        {% if resource.date %}
-        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>&nbsp;Date:</strong> <time datetime="{{ resource.date | date_to_xmlschema }}">{{ resource.date | date: "%B %d, %Y" }}</time><br/>
+        {% if course.date %}
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>&nbsp;Date:</strong> <time datetime="{{ course.date | date_to_xmlschema }}">{{ course.date | date: "%B %d, %Y" }}</time><br/>
         {% endif %}
-        {% if resource.publisher %}
-        <strong><i class="fa fa-fw fa-bullhorn" aria-hidden="true"></i>&nbsp;Publisher:</strong> {{ resource.publisher | array_to_sentence_string }}
+        {% if course.publisher %}
+        <strong><i class="fa fa-fw fa-bullhorn" aria-hidden="true"></i>&nbsp;Publisher:</strong> {{ course.publisher | array_to_sentence_string }}
         {% endif %}
       </p>
-      {% if resource.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ resource.excerpt | markdownify | strip_html | truncate: 180 }}</p>{% endif %}
+      {% if course.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ course.excerpt | markdownify | strip_html | truncate: 180 }}</p>{% endif %}
     </article>
   </div>
   {% endfor %}

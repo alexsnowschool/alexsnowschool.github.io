@@ -1,0 +1,46 @@
+<div class="feature__wrapper">
+
+  {% for external-course in site.data.external-courses %}
+
+  {% assign license-data = site.data.license[external-course.license] %}
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        {% if external-course.image_path %}
+          <div class="archive__item-teaser">
+            <a href="{{ external-course.url }}">
+              <img src=
+                {% if external-course.image_path contains "://" %}
+                  "{{ external-course.image_path }}"
+                {% else %}
+                  "{{ external-course.image_path | prepend: "/assets/images/" | prepend: absolute_url }}"
+                {% endif %}
+              alt="{% if external-course.alt %}{{ external-course.alt }}{% endif %}">
+            </a>
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if external-course.name %}
+            <h2 class="archive__item-title" itemprop="headline">{{ external-course.name }}</h2>
+          {% endif %}
+
+          {% if external-course.license %}
+            <p class="page__meta"><i class="fa fa-creative-commons" aria-hidden="true"></i> <a href="{{ external-course.license-url }}">{{ external-course.license }}</a></p>
+          {% endif %}
+
+          {% if external-course.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ external-course.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if external-course.url %}
+            <p><a href="{{ external-course.url }}" class="btn {{ external-course.btn_class }}">{{ external-course.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>

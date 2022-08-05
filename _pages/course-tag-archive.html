@@ -1,15 +1,15 @@
 ---
 layout: archive
-permalink: /resources/tag/
+permalink: /courses/tag/
 title: "Resources by Tag"
 ---
 
-{% include group-by-array collection=site.resources field="tags" %}
+{% include group-by-array collection=site.courses field="tags" %}
 
 {% for tag in group_names %}
-  {% assign resources = group_items[forloop.index0] %}
+  {% assign courses = group_items[forloop.index0] %}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in resources %}
+  {% for post in courses %}
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
