@@ -1,12 +1,12 @@
 ---
-title: OpenCV with Python
-excerpt: OpenCV ဆိုတာ Computer Vision ဆိုင်ရာနည်းပညာများကိုလေ့လာဖို့ အလွယ်တကူယူသုံးနိုင်တဲ့ function တွေကို စုထားတဲ့ open-source library တစ်ခုဖြစ်ပါတယ်။ ဒီ course မှာ Python ကို သုံးပြီး assignment, mini-project တွေနဲ့ တကွ အတူတူ လေ့လာကြမယ်။
+title: TensorFlow Beginner
+excerpt: Machine Learning, Deep learning တွေကို လေ့လာရင် သင်္ချာ အတွက်အချက်တွေက အရမ်းကို ခေါင်းစားရပါတယ်။ ဒီလို များပြားလှတဲ့ အသေးစိတ် တွက်ရတဲ့ ခေါင်းစားစရာတွေကို code ထဲမှာ ဘယ်လိုထည့်ရေးမှာလဲ။ လွယ်ပါတယ်။ TensorFlow ကို သုံးပြီး ဖြေရှင်းလို့ရပါတယ်။ 
 publisher:
   - Alex Snow School 
 creator:
   - AVARDS
 
-date: 2020-07-01
+date: 2020-10-01
 modified: 2022-07-10
 difficulty: Beginner
 state: "ready"
@@ -23,7 +23,7 @@ topic:
 tags:
   - Machine Learning & AI
   - Python
-  - OpenCV
+  - TensorFlow
 header:
   teaser: /assets/images/intro-to-ml-square.png
   overlay_image: /assets/images/HeroImage.png

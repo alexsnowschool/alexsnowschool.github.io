@@ -22,8 +22,9 @@ topic:
   - Machine-Learning-and-AI
 tags:
   - Machine Learning & AI
+  - Python
 header:
-  teaser: /assets/images/intro_to_ml_square.jpg
+  teaser: /assets/images/intro-to-ml-square.png
   overlay_image: /assets/images/HeroImage.png
   overlay_filter: .2
   caption: 
