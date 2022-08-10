@@ -3,6 +3,11 @@ layout: single
 title: "About our Courses"
 excerpt: "ကျောင်းမှာ လက်ရှိ ပိုချနေတဲ့ သင်ခန်စားများနဲ့ ပတ်သက်ပြီး အောင်ပါဖော်ပြချက်ကို လေ့လာနိုင်ပါတယ်။"
 permalink: /courses/about/
+header:
+  teaser: /assets/images/HeroImage.png
+  overlay_image: /assets/images/HeroImage.png
+  overlay_filter: .3
+  caption:
 ---
 
 Alex Snow School တွင် ရှိသော် course အားလုံးသည် အောက် ဖော်ပြပါ information များ ပါဝင်ပါတယ်။

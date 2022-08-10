@@ -35,7 +35,9 @@ body {
 }
 
 .page__lead, .site-title, .masthead__inner-wrap, .btn, .archive__item-title,
-.page__footer, .notice--primary, .toc, .notice--info, .sidebar__right, .initial-content, .search-content {
+.page__footer, .notice--primary, .toc, .notice--info, .sidebar__right, .initial-content,
+.sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6,
+.page__meta, .comment__date, .search-content {
   font-family: $header-font-ffamily;
 }
 

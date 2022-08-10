@@ -6,24 +6,21 @@ publisher:
 creator:
   - AVARDS
 date: 2020-05-01
-modified: 2022-07-10
+modified: 2022-10-10
 difficulty: Beginner
 state: "ready"
 license: PD
 audience:
-  - computer-science-students
-  - it-professionals
-  - ml-ai-enthusiasts
+  - Computer Science Students, ML and AI Enthusiasts, IT Professionals
 interactivity: Expository
 resource_type: Publication
 based_url: 
 topic:
   - "Machine-Learning-and-AI"
 tags:
-  - Machine Learning & AI
   - Python
 header:
-  teaser: /assets/images/intro-to-ml-square.png
+  teaser: /assets/images/intro-to-python-poster.png
   overlay_image: /assets/images/HeroImage.png
   overlay_filter: .2
   caption: 
@@ -31,8 +28,54 @@ anchor: true
 annotate: true
 ---
 
-<div class="full">
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr4KWMhLq6mDDiH3?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-</div>
+Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရှိပြီးမှ တက်သင့်ပါတယ်။
+{: .notice--info}
 
-The online community directory is published using [Airtable](https://airtable.com/). An alternate version of the Online Preservation Community Directory is available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1NBImLcBi2DGlNsJJWDz1nhGh85BTgeQjczLYLscxOfs/edit?usp=sharing).
+{% include toc title="Contents" %}
+
+
+## Week 1
+
+### Why Python and Installation
+
+{% include video id="eqfC4_GFtt8" provider="youtube" %}
+
+
+### Data Types and Operators
+
+{% include video id="NBuay2bJf3M" provider="youtube" %}
+
+## Week 2
+
+### Conditional Statements and Lists
+
+{% include video id="fN1LpYoisM0" provider="youtube" %}
+
+### Sets and Tuples
+
+{% include video id="PQiToFmIsi0" provider="youtube" %}
+
+## Week 3
+
+### Dictionaries and Multiple Conditions
+
+{% include video id="8sZST-cWPyo" provider="youtube" %}
+
+### Functions and Loop
+
+{% include video id="6C2ZJFSHtjQ" provider="youtube" %}
+
+
+## Week 4
+
+### Loops and Additional Lectures
+
+{% include video id="WY_0eH8on70" provider="youtube" %}
+
+### Python Module Continue and Object-Oriented Programming
+
+{% include video id="HQMTo-2IKE4" provider="youtube" %}
+
+## Assignments and Reading List
+
+- [GitHub: Introduction to Python Basics](https://github.com/alexsnowschool/introduction-to-python-basics){:target='_blank'}
