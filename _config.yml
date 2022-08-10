@@ -22,7 +22,7 @@ teaser                   : "/assets/images/13248u-1280-square.jpg" # filename of
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               :  "utterances" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -32,6 +32,8 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+  utterances:
+    repo: "alexsnowschool/alexsnowschool.github.io"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"

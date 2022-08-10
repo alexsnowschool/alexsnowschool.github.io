@@ -73,9 +73,15 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
-
-    {% if site.comments.provider and page.comments %}
-      {% include comments.html %}
+    {% if site.comments.provider %}
+      <!-- {% include comments.html %} -->
+      <script src="https://utteranc.es/client.js"
+        repo="site.comments.utterances.repo"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
     {% endif %}
   </article>
 
