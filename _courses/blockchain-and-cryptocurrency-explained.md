@@ -71,3 +71,8 @@ Pre-perquisite: ဒီ course ကို စိတ်ဝင်စားသူတ�
 
 {% include video id="6qi6s1B-srU" provider="youtube" %}
 
+
+## Reference List
+
+- [Coursera: Blockchain and Cryptocurrency Explained](https://www.coursera.org/learn/crypto-finance){:target='_blank'}
+
