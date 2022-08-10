@@ -1,10 +1,10 @@
 # List of topics
 
-- name: "Machine Learning and AI"
+- name: "ML-&-AI"
   slug: ml-ai
   description: "Historical research and interpretation. Architectural and social history."
 
-- name: "Data Engineering"
+- name: "Data-Engineering"
   slug: data-engineering
   description: "Working with groups of people and organizations for outreach and education."
 
