@@ -19,3 +19,7 @@
 - name: "Economics Professionals"
   slug: economics-professionals
   description: "ဘောဂဗေဒ ဘာသာရပ်ကို စိတ်ဝင်စားသူများအတွက် ဖြစ်ပါတယ်။"
+
+- name: "Blockchain and Web3 Enthusiasts"
+  slug: web3-enthusiasts
+  description: "Crypto နဲ့ Web3 ဆိုင်ရာ ဘာသာရပ်များကို စိတ်ဝင်စားသူများအတွက် ဖြစ်ပါတယ်။"

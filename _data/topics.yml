@@ -20,7 +20,12 @@
   display_name: Finance
   description: "Finance နဲ့ ဆိုင်တာတွေကို စုထားပါတယ်။"
 
-- name: Blockchain-and-Web3
+- name: "Project-Management"
+  slug: project-management
+  display_name: "Project Management"
+  description: "Project Manager ဖြစ်ချင်သူများနဲ့ ဆိုင်တဲ့ course တွေကို စုထားပါတယ်။"
+
+- name: "Blockchain-and-Web3"
   display_name: "Blockchain and Web3"
   slug: blockchain
   description: "နည်ပညာလောကမှာ ခေတ်စာလာတဲ့ blockchain နဲ့ ဆိုင်တဲ့ သင်ခန်စားတွေ အတွက်ပဲဖြစ်ပါတယ်။"
