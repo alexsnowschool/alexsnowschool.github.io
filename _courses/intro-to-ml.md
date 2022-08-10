@@ -42,63 +42,63 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 
 ## Week 1
 
-### Week 1: Machine Learning Terminology
+### Machine Learning Terminology
 
 {% include video id="rQ3TzxiX6Rc" provider="youtube" %}
 
 
-### Week 1: Descending to Machine Learning
+### Descending to Machine Learning
 
 {% include video id="oHu92JWGyHQ" provider="youtube" %}
 
 ## Week 2
 
-### Week 2: Familiarization with Tensorflow Frameworks, Generalization, Overfitting, Training and Test Sets, Validation Sets
+### Familiarization with Tensorflow Frameworks, Generalization, Overfitting, Training and Test Sets, Validation Sets
 
 {% include video id="99moewJyHYk" provider="youtube" %}
 
-### Week 2: Representation, Feature Cross, Regularization: Simplicity
+### Representation, Feature Cross, Regularization: Simplicity
 
 {% include video id="xX3BNg3A_Ns" provider="youtube" %}
 
 ## Week 3
 
-### Week 3: Logistic regression, Classification, Regularization : Sparsity
+### Logistic regression, Classification, Regularization : Sparsity
 
 {% include video id="lHguKDgu1PE" provider="youtube" %}
 
-### Week 3: Decision Tree
+### Decision Tree
 
 {% include video id="k8IFmp8Guu8" provider="youtube" %}
 
 
 ## Week 4
 
-### Week 4: K Nearest Neighbor (KNN)
+### K Nearest Neighbor (KNN)
 
 {% include video id="i98Xl1cDRcM" provider="youtube" %}
 
-### Week 4: K Means
+### K Means
 
 {% include video id="CxBTDKTxkU8" provider="youtube" %}
 
 ## Week 5
 
-### Week 5: ANN Algorithm Part 1
+### ANN Algorithm Part 1
 
 {% include video id="o1gDiVVuPSc" provider="youtube" %}
 
-### Week 5: ANN Algorithm Part 2
+### ANN Algorithm Part 2
 
 {% include video id="Z76wUTk5JgY" provider="youtube" %}
 
 ## Week 6
 
-### Week 6: Confusion Matrix Training Neural Nets — Best Practice Multi-Class Neural Nets
+### Confusion Matrix Training Neural Nets — Best Practice Multi-Class Neural Nets
 
 {% include video id="8049tWjUXI0" provider="youtube" %}
 
-### Week 6: Recommender System Embedding
+### Recommender System Embedding
 
 {% include video id="K6LIwYadtJA" provider="youtube" %}
 
