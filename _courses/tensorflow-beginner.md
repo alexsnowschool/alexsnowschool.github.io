@@ -19,9 +19,9 @@ interactivity: Expository
 resource_type: Publication
 based_url: 
 topic:
-  - Machine-Learning-and-AI
+  - "Machine-Learning-and-AI"
 tags:
-  - Machine Learning & AI
+  - "Machine Learning and AI"
   - Python
   - TensorFlow
 header:

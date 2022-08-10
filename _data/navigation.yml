@@ -2,8 +2,8 @@
 main:
   - title: "Courses"
     url: /courses/
-  - title: "Tutorials"
-    url: /tutorials/
+  # - title: "Tutorials"
+  #   url: /tutorials/
   - title: "Blog"
     url: https://alexsnow348.github.io/blog/
   - title: "Podcast"

@@ -1,25 +1,26 @@
 # List of topics
 
-- name: "ML-&-AI"
+- name: "Machine-Learning-and-AI"
+  display_name:  "Machine Learning and AI"
   slug: ml-ai
   description: "Historical research and interpretation. Architectural and social history."
 
 - name: "Data-Engineering"
+  display_name: "Data Engineering"
   slug: data-engineering
   description: "Working with groups of people and organizations for outreach and education."
 
 - name: Economics
   slug: economics
+  display_name: "Economics"
   description: "How to push for change at the local, state, and national level."
 
 - name: Finance
   slug: finance
+  display_name: Finance
   description: "Navigating issues of land use, historic designation, development, urban design and planning."
 
-- name: Blockchain
+- name: Blockchain-and-Web3
+  display_name: "Blockchain and Web3"
   slug: blockchain
   description: "Architecture, engineering, landscape design, site planning, etc."
-
-- name: Web3
-  slug: web3
-  description: "Teaching preservation and related skills in informal and formal educational contexts."

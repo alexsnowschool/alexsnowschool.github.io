@@ -3,7 +3,7 @@
       <h3>Filter by topic</h3>
       <p><a class="btn btn--large active" data-filter="*" style="width: 100%">All</a>
       {% for topic in site.data.topics %}
-        <a class="btn btn--large btn--info" data-filter=".{{ topic.name }}" style="width: 100%">{{ topic.name }}</a>
+        <a class="btn btn--large btn--info" data-filter=".{{ topic.name }}" style="width: 100%">{{ topic.display_name }}</a>
       {% endfor %}
     </div></p>
     <hr/>

@@ -12,3 +12,16 @@ $sans-serif-narrow  :  'Padauk', sans-serif;
 
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
+
+.utterances {
+    max-width: 100%;
+  }
+  
+  .giscus, .giscus-frame {
+    width: 100%;
+  }
+  
+  .giscus-frame {
+    border: none;
+  }
+  

@@ -21,19 +21,33 @@ repository               : "alexsnowschool/alexsnowschool.github.io" # GitHub us
 teaser                   : "/assets/images/13248u-1280-square.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+# Set which comment system to use
 comments:
-  provider               :  "utterances" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    repo: "alexsnowschool/alexsnowschool.github.io"
+  # 'disqus' / 'giscus' / 'utterances' are available
+  provider:            giscus
+
+# You must install utterances github app before use.(https://github.com/apps/utterances)
+# Make sure all variables are set properly. Check below link for detail.
+# https://utteranc.es/
+utterances:
+  repo:                "alexsnowschool/alexsnowschool.github.io"
+  issue-term:          "pathname"
+  label:               "Comments"
+  theme:               "github-light"
+
+# You must install giscus github app before use.(https://github.com/apps/giscus)
+# Make sure all variables are set properly. Check below link for detail.
+# https://giscus.vercel.app/
+giscus:
+  repo:                "alexsnowschool/alexsnowschool.github.io"
+  repo-id:             "R_kgDOHTfbkA"
+  category:            "Comments"
+  category-id:         "DIC_kwDOHTfbkM4CQuSC"
+  mapping:             "pathname"
+  reaction-enabled:    "1"
+  theme:               "light"
+  crossorigin:         "anonymous"
+
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"

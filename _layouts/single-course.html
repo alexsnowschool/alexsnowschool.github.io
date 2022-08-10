@@ -73,16 +73,12 @@ layout: default
 
       {% include post_pagination.html %}
     </div>
-    {% if site.comments.provider %}
-      <!-- {% include comments.html %} -->
-      <script src="https://utteranc.es/client.js"
-        repo="site.comments.utterances.repo"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-    </script>
-    {% endif %}
+    <div>
+      {% if site.comments.provider == "giscus" %}
+      {% include comments.html %}
+      {% endif %}
+    </div>
+
   </article>
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
