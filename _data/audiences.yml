@@ -2,20 +2,20 @@
 
 - name: "Computer Science Students"
   slug: computer-science-students
-  description: "Middle, high school or college-age students with an interest in pursuing careers in historic preservation or related fields."
+  description: "အခုလက်ရှိ IT နည်ပယ်ထဲကို စဝင်လာဖို့ ခြေလှမ်းယူနေတဲ့ Computer Science ကျောင်းသားများကို ဦးတည်းထာပါတယ်။"
 
 - name: "IT Professionals"
   slug: it-professionals
-  description: "Early to mid-career professionals working in historic preservation, including local, state, federal government; local, statewide, and regional non-profits; and private businesses in cultural resource management, preservation architecture and conservation."
+  description: "အခုလက်ရှိ IT နည်ပယ်ထဲမှာ ရှိနေသူတွေ အားလုံးကို ဦးတည်ထားပါတယ်။"
 
 - name: "ML and AI Enthusiasts"
   slug: ml-ai-enthusiasts
-  description: "Middle, high school or college-age students with an interest in pursuing careers in historic preservation or related fields."
+  description: "Machine Learning နှင့် AI ကို အထူးစိတ်ဝင်စားလေ့လာသူများ အတွက်ဖြစ်ပါတယ်။"
 
 - name: "Finance Professionals"
   slug: finance-professionals
-  description: "Early to mid-career professionals working in related fields, including museums, tourism, community and economic development, folklore, urban and regional planning, sustainable transportation advocacy, community organizing, etc."
+  description: "ဘဏ္ဍာရေး နဲ့ ဆိုင်တဲ့ နည်ပယ်တွေကို စိတ်ဝင်စားသူများအတွက် ဖြစ်ပါတယ်။"
 
 - name: "Economics Professionals"
   slug: economics-professionals
-  description: "Early to mid-career professionals working in related fields, including museums, tourism, community and economic development, folklore, urban and regional planning, sustainable transportation advocacy, community organizing, etc."
+  description: "ဘောဂဗေဒ ဘာသာရပ်ကို စိတ်ဝင်စားသူများအတွက် ဖြစ်ပါတယ်။"

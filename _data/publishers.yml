@@ -1,15 +1,14 @@
 - name: Alex Snow School
-  url: https://historicengland.org.uk/
-  description: Historic England is the public body that looks after England's historic environment. They champion and protect historic places, helping people understand, value and care for them.
-  wiki_url: https://en.wikipedia.org/wiki/Historic_England
-  coverage: England, United Kingdom
+  url: https://www.alexsnowschool.org/ 
+  description: A Youths' run school for empowering the next generation towards Myanmar economic and technological advancement.
+  wiki_url: 
+  coverage: Yangon, Myanmar 
   coverage_type:
     - national
 
 - name: AVARIDS
   url: https://www.nps.gov/index.htm
-  description: The National Park Service (NPS) is an agency of the United States federal government that manages all U.S. national parks, many American national monuments, and other conservation and historical properties with various title designations.
-  wiki_url: https://en.wikipedia.org/wiki/National_Park_Service
-  coverage: United States of America
+  description: 
+  coverage: Yangon, Myanmar
   coverage_type:
     - national

@@ -1,20 +1,14 @@
 ---
 layout: single
 title: "About our Courses"
-excerpt: "How the Local Preservation School makes resources accessible and available to educators and learners."
+excerpt: "ကျောင်းမှာ လက်ရှိ ပိုချနေတဲ့ သင်ခန်စားများနဲ့ ပတ်သက်ပြီး အောင်ပါဖော်ပြချက်ကို လေ့လာနိုင်ပါတယ်။"
 permalink: /courses/about/
 ---
 
-The Alex Snow School resource collection is a directory of websites, publications, and online tools for people interested in learning about update-to-date technologies. The resources cover a broad range of topics.
-
-They include both:
-
-- online resources developed or adapted for publication by the Alex Snow School project;
-- publications or websites we found useful and thought you would too.
-
+Alex Snow School တွင် ရှိသော် course အားလုံးသည် အောက် ဖော်ပြပါ information များ ပါဝင်ပါတယ်။
 ## Courses information
 
-Our directory describes each resource using these criteria:
+Course တိုင်းမှာ ဖန်းတီးထားသူတွေရဲ့ details တွေကို ထည့်တွင်းထားပါတယ်။
 
 - Publisher(s)
 - Creator(s)
@@ -27,7 +21,7 @@ Our directory describes each resource using these criteria:
 
 ### Courses state
 
-We use badges to show the state of each project we're developing or including in the directory. These badges include:
+Course တိုင် ရဲ့ လက်ရှိ development အခြေအနေတွေကိုလဲ အောက်က ဖော်ပြထားတဲ့ status တစ်ခု မဟုတ် တစ်ခု နှင့်  ဖော်ပြထားရှိပါတယ်။
 
 - ![state: brainstorming](https://img.shields.io/badge/status-brainstorming-lightgrey.svg)
 - ![state: needs work](https://img.shields.io/badge/status-needs%20work-red.svg)
@@ -37,18 +31,16 @@ We use badges to show the state of each project we're developing or including in
 
 ## Educational information
 
-In addition to the general information, resources are also described with criteria useful for educators and learners. These descriptions are based in part on the [Learning Resource Metadata Initiative](http://lrmi.dublincore.net/lrmi-schema/) standards.
+ကျောင်းတွင် မိမိတို့ စိတ်ဝင်စားရာ နည်ပယ်များကို အလွယ်တကူ လေ့လာနိုင်ရန် သက်ဆိုင် ဘာသာရပ်အလိုက် စုစည်ပေးထားပါတယ်။
 
 - Topics
 - Difficulty
 - Audience
 - Educational Use
-- Type of Interactivity
-- Type of Resource
 
 ### Difficulty
 
-We try to connect learners and educators with resources that are appropriate for their experience and background by noting the difficulty for each resource:
+Course တိုင်တွင် ဘာသာရပ်ဆိုင်ရာ ခက်ခဲ့နိုင်မှုကို ခန့်မှန်ချက်များ ပေးထားပါတယ်။
 
 - Beginner
 - Intermediate
@@ -56,7 +48,7 @@ We try to connect learners and educators with resources that are appropriate for
 
 ### Topics
 
-All of the resources are categorized by broad topics including:  
+ကျောင်းတွင် အောက်ဖော်ပြပါ ခေါင်စဉ်များမှ မိမိတို့ စိတ်ဝင်စားရာ နည်ပယ်ကို ရွေးချယ်လေ့လာနိုင်ပါတယ်။  
 
 {% for topic in site.data.topics %}
 - **{{ topic.name }}:** {{ topic.description }}
@@ -64,36 +56,19 @@ All of the resources are categorized by broad topics including:
 
 ### Audience
 
-The audience for a resource are the people for whom the resource was created or the people who we think are likely to find the resource useful. We've identified our key audiences by role – you may fit into one audience or more than one:
+ကျောင်းသည် အောက်ဖော်ပြပါ လေ့လောသူများကို ဦတည်ထားပါတယ်။
 
 {% for audience in site.data.audiences %}
 - **{{ audience.name }}:** {{ audience.description }}
 {% endfor %}
 
- We do not break down audiences by age or grade level in detail. In general, our resources may be useful and accessible to high school students, college students, as well as adult learners. Only a few of our resources are designed for middle school or elementary school students.
 
 ### Educational Use
 
-Potential educational uses for resource in this collection include:
+ကျောင်းမှာ ရှိတဲ့ course contents မှာ အားလုံးသည် အောက်ဖော်ပြပါ အခြေအနေဖြင့် ကိုက်ညီမှုရှိသော နေရာမျိုးတိုတွင် ပြန်လည် အသုံးချမှုကို ခွင့်ပြုပေးထားပါတယ်။
 
 - Self-guided learning
 - Board and volunteer trainings
 - Government and nonprofit staff trainings
 - Community workshops
 - High school and undergraduate college courses
-
-Learn more about the potential educational uses of our resources with our [guide for educators](http://localpreservation.github.io/teach/).
-
-### Type of Interactivity
-
-The type of interactivity is the mode of learning supported by the educational resource including:
-
-- active
-- expositive
-- mixed
-
-Most of the resources in our collection are expositive. Some are mixed and we plan to add interactive elements to any resources we publish.
-
-### Type of Resource
-
-Many of our resources have been adapted from printed publications.

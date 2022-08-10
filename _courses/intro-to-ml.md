@@ -1,6 +1,6 @@
 ---
 title: Introduction to Machine Learning
-excerpt: AI ကို စတင်ခြေလှမ်းဖို့အတွက် Deep Learning မလေ့လာခင် Machine Learning ရဲ့ basics တွေ ဖြစ်တဲ့ ML Algorithms ၊ ကိုယ် train ချင်တဲ့ Datasets အကြောင်း၊ Accuracy နဲ့ Loss ဆိုတာတွေ အစရှိတဲ့ Theory and Basics တွေအကြောင်းသင်ကြားပေးမှာဖြစ်ပါတယ်။
+excerpt: AI ကို စတင်ခြေလှမ်းဖို့အတွက် Deep Learning မလေ့လာခင် Machine Learning ရဲ့ basics တွေ ဖြစ်တဲ့ ML Algorithms ၊ ကိုယ် train ချင်တဲ့ Datasets အကြောင်း၊ Accuracy နဲ့ Loss ဆိုတာတွေ အစရှိတဲ့ Theory and Basics တွေအကြောင်း လေ့လာရမှာ ဖြစ်ပါတယ်။
 publisher:
   - Alex Snow School
 creator:
@@ -12,9 +12,7 @@ difficulty: Beginner
 state: "ready"
 license: PD
 audience:
-  - computer-science-students
-  - it-professionals
-  - ml-ai-enthusiasts
+  - Computer Science Students, ML and AI Enthusiasts, IT Professionals
 interactivity: Expository
 resource_type: Publication
 based_url: 
@@ -32,7 +30,7 @@ anchor: true
 annotate: true
 ---
 
-Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရှိပြီးမှ တက်သင့်ပါတယ်။ 
+Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရှိပြီးမှ တက်သင့်ပါတယ်။
 {: .notice--info}
 
 {% include toc title="Contents" %}

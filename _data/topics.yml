@@ -3,24 +3,24 @@
 - name: "Machine-Learning-and-AI"
   display_name:  "Machine Learning and AI"
   slug: ml-ai
-  description: "Historical research and interpretation. Architectural and social history."
+  description: "Machine Learning နှင့် AI ကို ဆိုင်တဲ့ သင်ခန်စားများကို စုထည့်ထားပါတယ်။"
 
 - name: "Data-Engineering"
   display_name: "Data Engineering"
   slug: data-engineering
-  description: "Working with groups of people and organizations for outreach and education."
+  description: "Data Engineering ဘာသာရပ်နဲ့ ဆိုင်တဲ့ သင်ခန်စားများ ဖြစ်ပါတယ်။"
 
 - name: Economics
   slug: economics
   display_name: "Economics"
-  description: "How to push for change at the local, state, and national level."
+  description: "Economics ဆိုင်ရာ သင်ခန်စားများ ဖြစ်ပါတယ်။"
 
 - name: Finance
   slug: finance
   display_name: Finance
-  description: "Navigating issues of land use, historic designation, development, urban design and planning."
+  description: "Finance နဲ့ ဆိုင်တာတွေကို စုထားပါတယ်။"
 
 - name: Blockchain-and-Web3
   display_name: "Blockchain and Web3"
   slug: blockchain
-  description: "Architecture, engineering, landscape design, site planning, etc."
+  description: "နည်ပညာလောကမှာ ခေတ်စာလာတဲ့ blockchain နဲ့ ဆိုင်တဲ့ သင်ခန်စားတွေ အတွက်ပဲဖြစ်ပါတယ်။"

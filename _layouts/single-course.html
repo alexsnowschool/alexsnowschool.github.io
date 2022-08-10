@@ -44,6 +44,9 @@ layout: default
           {% if page.difficulty %}
             <p class="page__date"><strong><i class="fas fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }}&nbsp;<a href="{{ '/courses/about/#difficulty' | absolute_url }}"><i class="fas fa-info-circle"></i></a></p>
           {% endif %}
+          {% if page.audience %}
+          <p class="page__date"><strong><i class="fas fas fa-book-reader" aria-hidden="true"></i> Audience</strong>: {{ page.audience }}&nbsp;<a href="{{ '/courses/about/#audience' | absolute_url }}"><i class="fas fa-info-circle"></i></a></p>
+          {% endif %}
           {% if page.license %}
           <p class="page__date"><strong><i class="fab fa-creative-commons" aria-hidden="true"></i> License:</strong>
             {% assign license = site.data.license-list[page.license] %}
@@ -105,11 +108,11 @@ layout: default
     </script>
   {% endif %}
 
-  {% if page.annotate %}
+  <!-- {% if page.annotate %}
     <script type="application/json" class="js-hypothesis-config">
       {"showHighlights": false}
     </script>
     <script src="https://hypothes.is/embed.js" async></script>
-  {% endif %}
+  {% endif %} -->
 
 </div>
