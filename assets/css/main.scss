@@ -1,3 +1,7 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
 /* Colors 
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
@@ -5,23 +9,36 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
 
-$serif              : "Padauk", Georgia, Times, serif;
+$serif              : "Padauk", sans-serif;
 $sans-serif-narrow  :  'Padauk', sans-serif;
 
 $global-font-family : $serif;
-$header-font-family : $sans-serif-narrow;
+$header-font-ffamily : $sans-serif-narrow;
 
 .utterances {
     max-width: 100%;
   }
   
-  .giscus, .giscus-frame {
+.giscus, .giscus-frame {
     width: 100%;
   }
   
-  .giscus-frame {
+.giscus-frame {
     border: none;
   }
   
+body {
+    font-family: $global-font-family;
+}
+
+.page__lead, .site-title, .masthead__inner-wrap, .btn, .archive__item-title,
+.page__footer, .notice--primary, .toc, .notice--info, .sidebar__right, .initial-content, .search-content {
+  font-family: $header-font-ffamily;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font-ffamily;
+}

@@ -2,13 +2,15 @@
 main:
   - title: "Courses"
     url: /courses/
-  # - title: "Tutorials"
-  #   url: /tutorials/
+  - title: "Lab"
+    url: https://github.com/alexsnowschool
+    target: "_blank"
   - title: "Blog"
     url: https://alexsnow348.github.io/blog/
+    target: "_blank"
   - title: "Podcast"
     url: https://anchor.fm/alexsnowschool/ 
+    target: "_blank"
   - title: "Donate"
     url: /donate/
-
 
