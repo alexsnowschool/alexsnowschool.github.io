@@ -13,7 +13,8 @@ difficulty: Beginner
 state: "ready"
 license: PD
 audience:
-- IT Professionals, Computer Science Students
+- IT Professionals
+- Computer Science Students
 
 interactivity: Expository
 resource_type: Publication

@@ -45,7 +45,7 @@ layout: default
             <p class="page__date"><strong><i class="fas fa-graduation-cap" aria-hidden="true"></i> Difficulty</strong>: {{ page.difficulty }}&nbsp;<a href="{{ '/courses/about/#difficulty' | absolute_url }}"><i class="fas fa-info-circle"></i></a></p>
           {% endif %}
           {% if page.audience %}
-          <p class="page__date"><strong><i class="fas fas fa-book-reader" aria-hidden="true"></i> Audience</strong>: {{ page.audience }}&nbsp;<a href="{{ '/courses/about/#audience' | absolute_url }}"><i class="fas fa-info-circle"></i></a></p>
+          <p class="page__date"><strong><i class="fas fas fa-book-reader" aria-hidden="true"></i> Audience</strong>: {{ page.audience | array_to_sentence_string }}&nbsp;<a href="{{ '/courses/about/#audience' | absolute_url }}"><i class="fas fa-info-circle"></i></a></p>
           {% endif %}
           {% if page.license %}
           <p class="page__date"><strong><i class="fab fa-creative-commons" aria-hidden="true"></i> License:</strong>
@@ -56,7 +56,7 @@ layout: default
           </p>
           {% endif %}
           {% if page.state %}
-            <p class="page__date"><strong><i class="fas fa-code-branch" aria-hidden="true"></i> Project State:</strong> {% include state.html %}</p>
+            <p class="page__date"><strong><i class="fas fa-code-branch" aria-hidden="true"></i> Course State:</strong> {% include state.html %}</p>
           {% endif %}
           {% if page.repository %}
             <p class="page__date"><strong><i class="fab fa-github" aria-hidden="true"></i> Repository:</strong> <a href="https://github.com/{{ page.repository }}">{{ page.repository }}</a></p>
