@@ -58,3 +58,4 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 ## Assignments and Reading List
 
 - [GitHub: Python Project for Data Science](https://github.com/alexsnowschool/python-project-for-data-science){:target='_blank'}
+- [Coursera: Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science){:target='_blank'}
