@@ -239,8 +239,8 @@ category_archive:
   path: /categories/
 tag_archive:
   type: liquid
-  path: /tags/
-resource_tag_archive:
+  path: /courses/tag/
+course_tag_archive:
   type: liquid
   path: /courses/tag/
 tool_tag_archive:
