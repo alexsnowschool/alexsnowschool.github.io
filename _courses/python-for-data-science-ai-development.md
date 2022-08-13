@@ -93,3 +93,5 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 ## Assignments and Reading List
 
 - [GitHub: Python for Data Science, AI & Development](https://github.com/alexsnowschool/python-for-data-science-AI-and-development){:target='_blank'}
+- [Coursera: Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai){:target='_blank'}
+
