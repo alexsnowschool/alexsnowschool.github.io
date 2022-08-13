@@ -7,7 +7,7 @@ creator:
   - Alex Snow
   - Sai Naing Lynn Oo 
 
-date: 2021-11-20
+date: 2022-01-01
 modified: 2022-08-13
 difficulty: Beginner
 state: "building/designing"
@@ -28,7 +28,7 @@ tags:
   - Finance
   - Global Financial System
 header:
-  teaser: /assets/images/decentralized-finance-defi-infrastructure.webp
+  teaser: /assets/images/decentralized-finance-defi-primitives.webp
   overlay_image: /assets/images/HeroImage.png
   overlay_filter: .2
   caption: 
@@ -43,41 +43,15 @@ Pre-perquisite: ဒီ course ကို စိတ်ဝင်စားသူတ�
 
 ## Week 1
 
-### The History of Decentralized Finance - Part 1
+### Transaction Mechanics
 
-{% include video id="zk4UjlEGmVw" provider="youtube" %}
+{% include video id="roNh-QytPPA" provider="youtube" %}
 
-### The History of Decentralized Finance - Part 2
+### Fungible-Tokens and Non-Fungible-Tokens
 
-{% include video id="XJz_30y5PiE" provider="youtube" %}
-
-## Week 2
-
-### DeFi Foundations - Part 1
-
-{% include video id="TFXgzVJaeLs" provider="youtube" %}
-
-### DeFi Foundations - Part 2
-
-{% include video id="q81TxSCNrNk" provider="youtube" %}
-
-## Week 3
-
-### Problems DeFi Solve - Part 1
-
-{% include video id="2qKyGMit2LU" provider="youtube" %}
-
-### Problems DeFi Solve - Part 2
-
-{% include video id="VcW4uMJhK98" provider="youtube" %}
-
-## Week 4
-
-### DeFi Myths and Facts
-
-{% include video id="1Lk0a6AezHw" provider="youtube" %}
+{% include video id="EUmI0tLGdgY" provider="youtube" %}
 
 ## Reference List
 
 - [Coursera: Decentralized Finance (DeFi) Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke){:target='_blank'}
-- [Book: Decentralized Finance (DeFi) Infrastructure](https://drive.google.com/file/d/1uD9T6vZPfcbuaF2FX_kz60-z5xQykQp3/view?usp=sharing){:target='_blank'}
+- [Book: Decentralized Finance (DeFi)](https://drive.google.com/file/d/1uD9T6vZPfcbuaF2FX_kz60-z5xQykQp3/view?usp=sharing){:target='_blank'}
