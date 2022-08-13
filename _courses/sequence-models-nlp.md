@@ -1,5 +1,5 @@
 ---
-title: Natural Language Processing with Sequence Models  
+title: Sequence Models  
 excerpt:  Google Translate  က ဘယ်လို့ အလုပ်လုပ်တာလဲ ဆိုတာ ပိုမို သိချင်သူများအတွက် လေ့လာသင့်တဲ့ course လေးဖြစ်ပါတယ်။ ဒီ course မှာတော့ text, audio data နဲ့ဆိုင်တာပတ်သက်ပြီး အသုံးချထားတဲ့ models တွေ အကြောင်း ပိုမို လေ့လာရမှာဖြစ်ပါတယ်။
 publisher:
   - Alex Snow School
@@ -90,5 +90,5 @@ Pre-perquisite: ဒီ course ကို Computer Science, Machine Learning theor
 
 ## Reading List
 
-- [Coursera: Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp){:target='_blank'}
+- [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning){:target='_blank'}
 - [Machine Learning Yearning](https://drive.google.com/file/d/1s1tasgwaEgh4LVAYZ-AEu5nJrvueBQiN/view?usp=sharing){:target='_blank'}
