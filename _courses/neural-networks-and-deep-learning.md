@@ -116,7 +116,7 @@ Pre-perquisite: ဒီ course ကို Computer Science, Machine Learning theor
 ## Reading List
 
 - [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning){:target='_blank'}
--[Computing the derivatives of a function using computational graph](https://drive.google.com/file/d/1QqxAi7V32XwBsr7QrCRo6O2Qyn-cXOZo/view?usp=sharing){:target='_blank'}
--[Computing the derivatives of Logistic Regression](https://drive.google.com/file/d/1CZF-0d3iw1xvCNgNJSjaugXEymtgKw8R/view?usp=sharing){:target='_blank'}
--[Logistic Regression](https://drive.google.com/file/d/1v6nC9UjUx7vpK10Usn7XepN_AciZH5be/view?usp=sharing){:target='_blank'}
+- [Computing the derivatives of a function using computational graph](https://drive.google.com/file/d/1QqxAi7V32XwBsr7QrCRo6O2Qyn-cXOZo/view?usp=sharing){:target='_blank'}
+- [Computing the derivatives of Logistic Regression](https://drive.google.com/file/d/1CZF-0d3iw1xvCNgNJSjaugXEymtgKw8R/view?usp=sharing){:target='_blank'}
+- [Logistic Regression](https://drive.google.com/file/d/1v6nC9UjUx7vpK10Usn7XepN_AciZH5be/view?usp=sharing){:target='_blank'}
 - [Machine Learning Yearning](https://drive.google.com/file/d/1s1tasgwaEgh4LVAYZ-AEu5nJrvueBQiN/view?usp=sharing){:target='_blank'}
