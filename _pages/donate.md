@@ -13,7 +13,7 @@ header:
 Alex Snow School သည် 100 % Open-Source Technology များဖြင့် တည်ဆောက်ထားပါသည်။
 {: .notice--info}
 
-နိုင်ငံခြားမှာ ရှိတဲ့မြန်မာများ အတွက် PayPal, Crypto တွေဖြစ်တဲ့ Tether USTD (BSC), Ethereum (ERC20, BSC) တို့ကို သုံပြီးတော့ Donate လုပ်နိုင်ပါပြီ။
+PayPal, Crypto တွေဖြစ်တဲ့ Tether USTD (BSC) (သို့) Ethereum (ERC20, BSC) တစ်ခုခုဖြင့် Donate လုပ်နိုင်ကြပါပြီး။
 <br>
 <br>
 <img src="/assets/images/paypal.png" alt="Donate with PayPal" width="140" height="140" >
