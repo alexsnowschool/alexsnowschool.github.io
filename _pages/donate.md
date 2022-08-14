@@ -10,7 +10,7 @@ header:
   caption:
 ---
 
-Alex Snow School သည် 100 % Open-Source technology များဖြင့် တည်ဆောက်ထားပါသည်။
+Alex Snow School သည် 100 % Open-Source Technology များဖြင့် တည်ဆောက်ထားပါသည်။
 {: .notice--info}
 
 နိုင်ငံခြားမှာ ရှိတဲ့မြန်မာများ အတွက် PayPal, Crypto တွေဖြစ်တဲ့ Tether USTD (BSC), Ethereum (ERC20, BSC) တို့ကိုသုံပြီးတော့ Donate လုပ်နိုင်ပါပြီ။
