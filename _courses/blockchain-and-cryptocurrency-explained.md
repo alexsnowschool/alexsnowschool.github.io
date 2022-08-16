@@ -75,4 +75,5 @@ Pre-perquisite: ဒီ course ကို စိတ်ဝင်စားသူတ�
 ## Reference List
 
 - [Coursera: Blockchain and Cryptocurrency Explained](https://www.coursera.org/learn/crypto-finance){:target='_blank'}
+- [Ebook: Bitcoin အကြောင်း တစေ့တစောင်း](https://drive.google.com/file/d/1oAYZEAWN4g5lzaf2onlvpyAW_kHnjz5k/view?usp=sharing){:target='_blank'}
 
