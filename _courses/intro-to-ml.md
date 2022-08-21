@@ -12,7 +12,9 @@ difficulty: Beginner
 state: "ready"
 license: PD
 audience:
-  - Computer Science Students, ML and AI Enthusiasts, IT Professionals
+  - Computer Science Students
+  - ML and AI Enthusiasts
+  - IT Professionals
 interactivity: Expository
 resource_type: Publication
 based_url: 
