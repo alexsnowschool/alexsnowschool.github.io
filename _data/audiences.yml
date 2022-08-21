@@ -2,11 +2,11 @@
 
 - name: "Computer Science Students"
   slug: computer-science-students
-  description: "အခုလက်ရှိ IT နည်ပယ်ထဲကို စဝင်လာဖို့ ခြေလှမ်းယူနေတဲ့ Computer Science ကျောင်းသားများကို ဦးတည်းထာပါတယ်။"
+  description: "အခုလက်ရှိ IT နယ်ပယ်ထဲကို စဝင်လာဖို့ ခြေလှမ်းယူနေတဲ့ Computer Science ကျောင်းသားများကို ဦးတည်ထားပါတယ်။"
 
 - name: "IT Professionals"
   slug: it-professionals
-  description: "အခုလက်ရှိ IT နည်ပယ်ထဲမှာ ရှိနေသူတွေ အားလုံးကို ဦးတည်ထားပါတယ်။"
+  description: "အခုလက်ရှိ IT နယ်ပယ်ထဲမှာ ရှိနေသူတွေ အားလုံးကို ဦးတည်ထားပါတယ်။"
 
 - name: "ML and AI Enthusiasts"
   slug: ml-ai-enthusiasts
@@ -14,7 +14,7 @@
 
 - name: "Finance Professionals"
   slug: finance-professionals
-  description: "ဘဏ္ဍာရေး နဲ့ ဆိုင်တဲ့ နည်ပယ်တွေကို စိတ်ဝင်စားသူများအတွက် ဖြစ်ပါတယ်။"
+  description: "ဘဏ္ဍာရေး နဲ့ ဆိုင်တဲ့ နယ်ပယ်တွေကို စိတ်ဝင်စားသူများအတွက် ဖြစ်ပါတယ်။"
 
 - name: "Economics Professionals"
   slug: economics-professionals
