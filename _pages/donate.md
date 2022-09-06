@@ -13,7 +13,7 @@ header:
 Alex Snow School သည် 100 % Open-Source Technology များဖြင့် တည်ဆောက်ထားပါသည်။
 {: .notice--info}
 
-<p> PayPal, Crypto တွေဖြစ်တဲ့ Ethereum (ERC20)  (သို့) Tether USTD (BSC)  တစ်ခုခုဖြင့် Donate လုပ်နိုင်ကြပါပြီ။ </p>
+<p>PayPal ဖြင့်သော်လည်းကောင်း၊ Crypto တွေဖြစ်တဲ့ Ethereum (ERC20) / Tether USTD (BSC) စသည်တို့်ဖြင့်လည်းကောင်း Donate လုပ်နိုင်ကြပါပြီ။</p>
 
 <img src="/assets/images/paypal.png" alt="Donate with PayPal" width="160" height="160" >
 [**Donate with PayPal**](https://www.paypal.com/paypalme/alexsnow348){: .btn target="_blank"}
