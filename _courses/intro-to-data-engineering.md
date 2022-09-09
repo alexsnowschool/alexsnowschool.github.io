@@ -43,6 +43,13 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="hlXRkoE5ZDM" provider="youtube" %}
 
+## Week 2
+
+### SQL Basic Recap Continue - Day 2
+
+{% include video id="fo6-HUwYD9I" provider="youtube" %}
+
 ## Reference List
 
+- [Sides and Code](https://drive.google.com/drive/folders/180t-v3pXZKM1SjwlmbN0Pjoo14nO54Zc?usp=sharing){:target='_blank'}
 - [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql){:target='_blank'}
