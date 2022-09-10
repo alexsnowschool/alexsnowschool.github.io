@@ -49,6 +49,10 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="fo6-HUwYD9I" provider="youtube" %}
 
+### SQL Select and Constraints - Day 3
+
+{% include video id="WTOgin62imk" provider="youtube" %}
+
 ## Reference List
 
 - [Sides and Code](https://drive.google.com/drive/folders/180t-v3pXZKM1SjwlmbN0Pjoo14nO54Zc?usp=sharing){:target='_blank'}
