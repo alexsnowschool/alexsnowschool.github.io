@@ -1,8 +1,8 @@
 ---
-title: Introduction to Data Engineering 
+title: Introduction to Data Engineering
 excerpt: Data Engineer တစ်ယောက်အဖြစ် လုပ်ငန်းခွင်ဝင်ချင်သူများ အတွက် စပြီး လေ့လာသင့်တဲ့ course ပဲဖြစ်ပါတယ်။
 publisher:
-  - Alex Snow School 
+  - Alex Snow School
 creator:
   - Alex Snow
   - Sai Naing Lynn Oo
@@ -13,12 +13,12 @@ difficulty: Beginner
 state: "building/designing"
 license: PD
 audience:
-- IT Professionals
-- Computer Science Students
+  - IT Professionals
+  - Computer Science Students
 
 interactivity: Expository
 resource_type: Publication
-based_url: 
+based_url:
 topic:
   - "Data-Engineering"
 tags:
@@ -27,7 +27,7 @@ header:
   teaser: /assets/images/gcp-big-data-and-ml-fundamentals.svg
   overlay_image: /assets/images/HeroImage.png
   overlay_filter: .2
-  caption: 
+  caption:
 anchor: true
 annotate: true
 ---
@@ -39,25 +39,31 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 ## Week 1
 
-### Database Intro and SQL Basic Recap - Day 1
+### Database Intro and SQL Basic Recap
 
 {% include video id="hlXRkoE5ZDM" provider="youtube" %}
 
 ## Week 2
 
-### SQL Basic Recap Continue - Day 2
+### SQL Basic Recap Continue
 
 {% include video id="fo6-HUwYD9I" provider="youtube" %}
 
-### SQL Select and Constraints - Day 3
+### SQL Select and Constraints
 
 {% include video id="WTOgin62imk" provider="youtube" %}
 
-### SQL Joins and Additional Topics - Day 4
+## Week 3
+
+### SQL Joins and Additional Topics
 
 {% include video id="PAaMHnGhIPk" provider="youtube" %}
 
+### ACID, Normalization,ER Model
+
+{% include video id="mCc3r5CrNs8" provider="youtube" %}
+
 ## Reference List
 
-- [Sides and Code](https://drive.google.com/drive/folders/180t-v3pXZKM1SjwlmbN0Pjoo14nO54Zc?usp=sharing){:target='_blank'}
-- [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql){:target='_blank'}
+- [Sides and Code](https://drive.google.com/drive/folders/180t-v3pXZKM1SjwlmbN0Pjoo14nO54Zc?usp=sharing){:target='\_blank'}
+- [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql){:target='\_blank'}
