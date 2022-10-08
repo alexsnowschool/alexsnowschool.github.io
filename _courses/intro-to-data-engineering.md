@@ -59,11 +59,19 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="PAaMHnGhIPk" provider="youtube" %}
 
-### ACID, Normalization,ER Model
+### ACID, Normalization, ER Model
 
 {% include video id="mCc3r5CrNs8" provider="youtube" %}
+
+## Week 4
+
+### Introduction to NoSQL: MongoDB
+
+{% include video id="XXPL1lgd_iE" provider="youtube" %}
+
 
 ## Reference List
 
 - [Sides and Code](https://drive.google.com/drive/folders/180t-v3pXZKM1SjwlmbN0Pjoo14nO54Zc?usp=sharing){:target='\_blank'}
 - [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql){:target='\_blank'}
+- [Introduction to MongoDB Course](https://drive.google.com/drive/folders/1Jv9el6-Yx7emk09qMW67xTg3d972fNlC){:target='\_blank'}
