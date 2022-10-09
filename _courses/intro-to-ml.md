@@ -106,5 +106,7 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 
 ## Reading List
 
+- [Lecture Slides](https://drive.google.com/drive/folders/1mwkAf0UhnlgBhx5GB5fagCTlAMF1Tfuo?usp=sharing){:target='_blank'}
 - [GitHub: Introduction to Machine Learning](https://github.com/alexsnowschool/introduction-to-machine-learning){:target='_blank'}
 - [Machine Learning Yearning](https://drive.google.com/file/d/1s1tasgwaEgh4LVAYZ-AEu5nJrvueBQiN/view?usp=sharing){:target='_blank'}
+
