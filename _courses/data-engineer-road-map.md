@@ -1,5 +1,5 @@
 ---
-title: Introduction to Data Engineering
+title: Data Engineer Road Map
 excerpt: Data Engineer တစ်ယောက်အဖြစ် လုပ်ငန်းခွင်ဝင်ချင်သူများ အတွက် စပြီး လေ့လာသင့်တဲ့ course ပဲဖြစ်ပါတယ်။
 publisher:
   - Alex Snow School
@@ -68,6 +68,10 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 ### Introduction to NoSQL: MongoDB
 
 {% include video id="XXPL1lgd_iE" provider="youtube" %}
+
+### Deep-Dive into MongoDB: CRUD
+
+{% include video id="8zvoiZVgFx0" provider="youtube" %}
 
 
 ## Reference List
