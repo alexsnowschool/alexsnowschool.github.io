@@ -5,7 +5,6 @@ publisher:
   - Alex Snow School
 creator:
   - Alex Snow
-  - Sai Naing Lynn Oo
 
 date: 2022-04-22
 modified: 2022-10-10
@@ -73,6 +72,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="8zvoiZVgFx0" provider="youtube" %}
 
+## Week 5
+
+### Deep-Dive into MongoDB: Import, Export, Read Operators
+
+{% include video id="q6ZOCQDE0sw" provider="youtube" %}
 
 ## Reference List
 
