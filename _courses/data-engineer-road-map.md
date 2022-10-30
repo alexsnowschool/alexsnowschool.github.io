@@ -78,6 +78,10 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="q6ZOCQDE0sw" provider="youtube" %}
 
+### Deep-Dive into MongoDB: Update Operators
+
+{% include video id="slnOsScFYS8" provider="youtube" %}
+
 ## Reference List
 
 - [Sides and Code](https://drive.google.com/drive/folders/180t-v3pXZKM1SjwlmbN0Pjoo14nO54Zc?usp=sharing){:target='\_blank'}
