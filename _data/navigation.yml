@@ -5,11 +5,11 @@ main:
   - title: "Lab"
     url: https://github.com/alexsnowschool
     target: "_blank"
-  - title: "Blog"
-    url: https://alexsnow348.github.io/blog/
-    target: "_blank"
   - title: "Podcasts"
     url: https://alexsnow348.github.io/podcasts/
+    target: "_blank"
+  - title: "Newsletter"
+    url: https://alexsnowschool.substack.com/
     target: "_blank"
   - title: "Donate"
     url: /donate/
