@@ -1,5 +1,5 @@
 ---
-title: Data Engineer Road Map
+title: Data Engineer Road Map - Databases Recap
 excerpt: Data Engineer တစ်ယောက်အဖြစ် လုပ်ငန်းခွင်ဝင်ချင်သူများ အတွက် စပြီး လေ့လာသင့်တဲ့ course ပဲဖြစ်ပါတယ်။
 publisher:
   - Alex Snow School
@@ -81,6 +81,10 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 ### Deep-Dive into MongoDB: Update Operators
 
 {% include video id="slnOsScFYS8" provider="youtube" %}
+
+### Deep-Dive into MongoDB: Indexes
+
+{% include video id="aQXiE2xkzbE" provider="youtube" %}
 
 ## Reference List
 
