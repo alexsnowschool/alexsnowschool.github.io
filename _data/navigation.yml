@@ -11,6 +11,8 @@ main:
   - title: "Newsletter"
     url: https://alexsnowschool.substack.com/
     target: "_blank"
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Donate"
     url: /donate/
 

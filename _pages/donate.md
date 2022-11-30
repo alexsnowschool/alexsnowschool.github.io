@@ -27,7 +27,7 @@ alexsnowschool.eth
 ```
 
 <img src="/assets/images/usdt.png" alt="USDT BSC" width="60" height="60">
-<strong> Tether USTD (BSC) </strong>
+<strong> Tether USDT (BSC) </strong>
 ```
 0xe58ea057e055bb4babb1a40712bf3dfde0907def
 ```
