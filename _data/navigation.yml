@@ -13,7 +13,7 @@ main:
     target: "_blank"
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Buy"
-    url: https://alexsnowschool.gumroad.com/
+  - title: "Donate"
+    url: https://buy.stripe.com/dR67vG7Hz0dSeuQ3cc
     target: "_blank"
 
