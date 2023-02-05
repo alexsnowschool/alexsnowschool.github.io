@@ -1,4 +1,8 @@
 # List of topics
+- name: "Blockchain-and-Web3"
+  display_name: "Blockchain and Web3"
+  slug: blockchain
+  description: "နည်ပညာလောကမှာ ခေတ်စာလာတဲ့ blockchain နဲ့ ဆိုင်တဲ့ သင်ခန်စားတွေ အတွက်ပဲဖြစ်ပါတယ်။"
 
 - name: "Machine-Learning-and-AI"
   display_name:  "Machine Learning and AI"
@@ -24,8 +28,3 @@
   slug: project-management
   display_name: "Project Management"
   description: "Project Manager ဖြစ်ချင်သူများနဲ့ ဆိုင်တဲ့ course တွေကို စုထားပါတယ်။"
-
-- name: "Blockchain-and-Web3"
-  display_name: "Blockchain and Web3"
-  slug: blockchain
-  description: "နည်ပညာလောကမှာ ခေတ်စာလာတဲ့ blockchain နဲ့ ဆိုင်တဲ့ သင်ခန်စားတွေ အတွက်ပဲဖြစ်ပါတယ်။"
