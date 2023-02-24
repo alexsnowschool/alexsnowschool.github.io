@@ -39,9 +39,15 @@ Pre-perquisite: ဒီ course ကို Computer Science နဲ့ Programming L
 
 ## JavaScript for Blockchain and Web3
 
-### Week 1: Introduction
+## Week 1
+
+### Introduction
 
 {% include video id="ZM7CJmdsElE" provider="youtube" %}
+
+### JavaScript Fundamentals Introduction, Basics
+
+{% include video id="sJ4TrxsOwBU" provider="youtube" %}
 
 
 ## Reference List
