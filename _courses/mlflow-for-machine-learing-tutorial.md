@@ -25,7 +25,7 @@ tags:
   - MLflow
 header:
   teaser: /assets/images/mlflow-ml-tutorial-part-2.jpg
-  overlay_image: /assets/images/quickstart_tracking_overview.png
+  overlay_image: /assets/images/HeroImage.png
   overlay_filter: .2
   caption:
 anchor: true
@@ -38,6 +38,8 @@ Pre-perquisite: ဒီ course ကို Computer Science နဲ့ Python Basic 
 {% include toc title="Contents" %}
 
 ## MLFlow for Machine Learning - Tutorial
+
+![MLFlow Workflow](/assets/images/quickstart_tracking_overview.png "MLFlow Workflow")
 
 ### Part One
 
