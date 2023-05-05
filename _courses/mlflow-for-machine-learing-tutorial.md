@@ -1,6 +1,6 @@
 ---
 title: MLFlow for Machine Learning - Tutorial
-excerpt: "Machine Learning, Deep learning models experiments တွေကို train, deploy stage တွေကို သေချာ tracking လုပ်ပေးတဲ့ opensource library ဖြစ်ပါတယ်။"
+excerpt: "Machine Learning, Deep learning models experiments တွေကို train, deploy လုပ်ရာမှာ သေချာ tracking လုပ်ပေးနိုင်တဲ့ opensource library ဖြစ်ပါတယ်။"
 publisher:
   - Alex Snow School
 creator:
