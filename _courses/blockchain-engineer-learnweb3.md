@@ -1,14 +1,13 @@
 ---
-title: JavaScript for Blockchain and Web3
-excerpt: Ethereum Blockchain ကို လေ့လာဖို့ JavaScript က မသိမဖြစ်သိဖို့ လိုအပ်ပါတယ်။ ဒီ course မှာ JS အခြေခံတွေကို ပြန်လေ့လာကြရမှာဖြစ်ပါတယ်။
+title: Blockchain Developer - Ethereum
+excerpt: Ethereum Blockchain ကို အဓိကထားပြီး Web3 နှင့် blockchain ဆိုင်ရာ ခေါင်စဥ်များကို ဆွေးနွေးထားပါတယ်။
 publisher:
   - Alex Snow School 
 creator:
   - Alex Snow
-  - Volunteers
 
-date: 2023-02-05
-modified: 2023-02-05
+date: 2023-07-15
+modified: 2023-07-15
 difficulty: Beginner
 state: "building/designing"
 license: PD
@@ -24,7 +23,7 @@ tags:
   - JavaScript
   - Web3
 header:
-  teaser: /assets/images/javascript-for-blockchain-and-web3.png
+  teaser: assets/images/blockchain-developer-eth.jpeg
   overlay_image: /assets/images/HeroImage.png
   overlay_filter: .2
   caption: 
@@ -37,19 +36,20 @@ Pre-perquisite: ဒီ course ကို Computer Science နဲ့ Programming L
 
 {% include toc title="Contents" %}
 
-## JavaScript for Blockchain and Web3
+## Blockchain Developer - Ethereum
 
-## Week 1
+## Freshman 🚀
 
-### Introduction
+### FinTech နှင့် Blockchain ဆိုတာ?
 
-{% include video id="ZM7CJmdsElE" provider="youtube" %}
+{% include video id="wjMIfs8cJu8" provider="youtube" %}
 
-### JavaScript Fundamentals Introduction, Basics
+### Blockchain programming ဆိုတာ?
 
-{% include video id="sJ4TrxsOwBU" provider="youtube" %}
+{% include video id="tmQb_e5iLlg" provider="youtube" %}
 
 
 ## Reference List
 
-- [JavaScript for Blockchain and Web3](https://university.alchemy.com/home){:target='_blank'}
+- [LearnWeb3 - Blockchain Developer ](https://learnweb3.io/?invite-code=0nfUFu98){:target='_blank'}
+
