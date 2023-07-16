@@ -36,7 +36,7 @@ Pre-perquisite: ဒီ course ကို Computer Science နဲ့ Programming L
 
 {% include toc title="Contents" %}
 
-## Blockchain Developer - Ethereum
+# Blockchain Developer - Ethereum
 
 ## Freshman 🚀
 
