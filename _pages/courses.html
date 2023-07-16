@@ -13,7 +13,8 @@ sidebar:
 ---
 
 <div class="grid">
-  {% for course in site.courses %}
+  {% assign sorted_courses = site.courses | reverse %}
+  {% for course in sorted_courses %}
   <div class="grid-item {{ course.topic | join: ' ' }}">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <!--<div class="align-right grid-img">
