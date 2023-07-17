@@ -8,7 +8,7 @@ creator:
 date: 2023-07-17
 modified: 2023-07-17
 difficulty: Beginner
-state: "ready"
+state: "building/designing"
 license: PD
 audience:
   - Computer Science Students
