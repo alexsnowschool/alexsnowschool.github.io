@@ -50,6 +50,11 @@ Pre-perquisite: ဒီ course ကို Computer Science နဲ့ Programming L
 {% include video id="sJ4TrxsOwBU" provider="youtube" %}
 
 
+### Variable and Boolean
+
+{% include video id="pNIy0LMrnr4" provider="youtube" %}
+
+
 ## Reference List
 
 - [JavaScript for Blockchain and Web3](https://university.alchemy.com/home){:target='_blank'}
