@@ -48,6 +48,11 @@ Pre-perquisite: ဒီ course ကို Computer Science နဲ့ Programming L
 
 {% include video id="tmQb_e5iLlg" provider="youtube" %}
 
+### Node, Block, Decentralised ဆိုတာ?
+
+{% include video id="UQLcST8cGbQ" provider="youtube" %}
+
+
 
 ## Reference List
 
