@@ -46,6 +46,11 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 {% include video id="ePGnEJoylhk" provider="youtube" %}
 
 
+### Large Language Model - LLMs အခြေခံ မိတ်ဆက်
+
+{% include video id="BczI_Du7Fzo" provider="youtube" %}
+
+
 ## References List
 
 - [LearnWeb3](https://learnweb3.io/?invite-code=0nfUFu98){:target='_blank'}
