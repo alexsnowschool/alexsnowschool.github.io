@@ -10,10 +10,16 @@ header:
   caption:
 ---
 
-Alex Snow School သည် 100 % Open-Source Technology များဖြင့် တည်ဆောက်ထားပါသည်။
+Alex Snow School သည် မြန်မာ လူငယ်များ နည်းပညာ အသိဗဟုသုတု တိုးတက်ရေးကို ဦးစားပေးလုပ်ဆောင်နေပါသည်။
 {: .notice--info}
 
-<p>PayPal ဖြင့်သော်လည်းကောင်း၊ Crypto တွေဖြစ်တဲ့ Ethereum (ERC20) / Tether USTD (BSC) စသည်တို့်ဖြင့်လည်းကောင်း Donate လုပ်နိုင်ကြပါပြီ။</p>
+
+
+<img src="/assets/images/kpay-logo.webp" alt="Donate with KPay" width="80" height="80" > ဖြင့် Donate လုပ်နိုင်ပါပြီး။
+
+<img src="/assets/images/donate-kpay.jpeg" alt="KPay ID" width="300" height="600" >
+
+<p>PayPal, Stripe ဖြင့်သော်လည်းကောင်း၊ Crypto တွေဖြစ်တဲ့ Ethereum (ERC20) / Tether USTD (BSC) စသည်တို့်ဖြင့်လည်းကောင်း Donate လုပ်နိုင်ကြပါပြီ။</p>
 
 <img src="/assets/images/paypal.png" alt="Donate with PayPal" width="160" height="160" >
 [**Donate with PayPal**](https://www.paypal.com/paypalme/alexsnow348){: .btn target="_blank"}
