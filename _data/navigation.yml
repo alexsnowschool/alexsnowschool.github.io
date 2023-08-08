@@ -2,6 +2,10 @@
 main:
   - title: "Courses"
     url: /courses/
+  - title: "Roadmap"
+    url: /roadmap/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Lab"
     url: https://github.com/alexsnowschool
     target: "_blank"
@@ -11,8 +15,6 @@ main:
   - title: "Newsletter"
     url: https://alexsnowschool.substack.com/
     target: "_blank"
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "Donate"
     url: /donate/
     # target: "_blank"

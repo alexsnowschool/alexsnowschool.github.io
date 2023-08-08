@@ -18,7 +18,7 @@ interactivity: Expository
 resource_type: Publication
 based_url: 
 topic:
-  - "Finance-and-Banking"
+  - "Financial-Technology"
 tags:
   - Blockchain
   - Banking

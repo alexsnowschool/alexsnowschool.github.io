@@ -21,7 +21,7 @@ resource_type: Publication
 based_url: 
 topic:
   - "Blockchain-and-Web3"
-  - "Finance-and-Banking"
+  - "Financial-Technology"
 tags:
   - Economics
   - Global Financial System

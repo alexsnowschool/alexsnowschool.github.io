@@ -19,7 +19,6 @@ resource_type: Publication
 based_url: 
 topic:
   - Economics
-  - Finance-and-Banking
 tags:
   - Economics
   - Global Financial System

@@ -1,29 +1,29 @@
 # List of topics
-- name: "Blockchain-and-Web3"
-  display_name: "Blockchain and Web3"
-  slug: blockchain
-  description: "နည်ပညာလောကမှာ ခေတ်စာလာတဲ့ blockchain နဲ့ ဆိုင်တဲ့ သင်ခန်စားတွေ အတွက်ပဲဖြစ်ပါတယ်။"
-
 - name: "Machine-Learning-and-AI"
   display_name:  "Machine Learning and AI"
   slug: ml-ai
   description: "Machine Learning နှင့် AI ကို ဆိုင်တဲ့ သင်ခန်စားများကို စုထည့်ထားပါတယ်။"
 
-- name: "Data-Engineering"
-  display_name: "Data Engineering"
-  slug: data-engineering
-  description: "Data Engineering ဘာသာရပ်နဲ့ ဆိုင်တဲ့ သင်ခန်စားများ ဖြစ်ပါတယ်။"
+- name: "Blockchain-and-Web3"
+  display_name: "Blockchain and Web3"
+  slug: blockchain
+  description: "နည်ပညာလောကမှာ ခေတ်စာလာတဲ့ blockchain နဲ့ ဆိုင်တဲ့ သင်ခန်စားတွေ အတွက်ပဲဖြစ်ပါတယ်။"
+
+- name: Financial-Technology
+  slug: finance-technology
+  display_name: "Financial Technology"
+  description: "FinTech နဲ့ ဆိုင်တာတွေကို စုထားပါတယ်။"
 
 - name: Economics
   slug: economics
   display_name: "Economics"
   description: "Economics ဆိုင်ရာ သင်ခန်စားများ ဖြစ်ပါတယ်။"
-
-- name: Finance-and-Banking
-  slug: finance-banking
-  display_name: Finance and Banking
-  description: "Finance နဲ့ ဆိုင်တာတွေကို စုထားပါတယ်။"
-
+  
+- name: "Data-Engineering"
+  display_name: "Data Engineering"
+  slug: data-engineering
+  description: "Data Engineering ဘာသာရပ်နဲ့ ဆိုင်တဲ့ သင်ခန်စားများ ဖြစ်ပါတယ်။"
+  
 - name: "Project-Management"
   slug: project-management
   display_name: "Project Management"
