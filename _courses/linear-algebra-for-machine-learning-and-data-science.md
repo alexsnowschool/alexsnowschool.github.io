@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra for Machine Learning and Data Science"
+title: "Linear Algebra for Machine Learning"
 excerpt: ML, AI, Data Science လေ့လာနေသူများအတွက် သင်္ချာ ဆိုင်ရာ မဖြစ်မနေ သိထားသင့်တဲ့ အခြေခံများကို လေ့လာသွားရမှာ ဖြစ်ပါတယ်။ 
 publisher:
   - Alex Snow School 
