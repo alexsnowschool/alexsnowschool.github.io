@@ -40,10 +40,14 @@ Pre-perquisite: ဒီ course ကို စိတ်ဝင်စားသူတ�
 
 ## Week 1
 
-### Systems of linear equations
-
+### Systems of linear equations(2x2)
 
 {% include video id="4xMpJSgxJLY" provider="youtube" %}
+
+
+### Systems of linear equations (3x3)
+
+{% include video id="Jm7NJbIrlyE" provider="youtube" %}
 
 
 ## Assignments and Reading List
