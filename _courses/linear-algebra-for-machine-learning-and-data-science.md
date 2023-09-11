@@ -49,6 +49,9 @@ Pre-perquisite: ဒီ course ကို စိတ်ဝင်စားသူတ�
 
 {% include video id="Jm7NJbIrlyE" provider="youtube" %}
 
+### Intro to Numpy for Linear Algebra
+
+{% include video id="iuRV4da3TyM" provider="youtube" %}
 
 ## Assignments and Reading List
 
