@@ -9,9 +9,9 @@ main:
   - title: "Lab"
     url: https://github.com/alexsnowschool
     target: "_blank"
-  - title: "Podcast"
-    url: https://podcasters.spotify.com/pod/show/alexsnowschool
-    target: "_blank"
+  # - title: "Podcast"
+  #   url: https://podcasters.spotify.com/pod/show/alexsnowschool
+  #   target: "_blank"
   - title: "Newsletter"
     url: https://alexsnowschool.substack.com/
     target: "_blank"
