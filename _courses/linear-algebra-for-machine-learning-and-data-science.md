@@ -53,6 +53,14 @@ Pre-perquisite: ဒီ course ကို စိတ်ဝင်စားသူတ�
 
 {% include video id="iuRV4da3TyM" provider="youtube" %}
 
+
+## Week 2
+
+### Solving system of linear equations: Elimination
+
+{% include video id="fVsMIa-AicY" provider="youtube" %}
+
+
 ## Assignments and Reading List
 
 - [Coursera: Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science){:target='_blank'}
