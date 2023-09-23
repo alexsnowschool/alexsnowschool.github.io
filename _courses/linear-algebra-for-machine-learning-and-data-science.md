@@ -61,6 +61,11 @@ Pre-perquisite: ဒီ course ကို စိတ်ဝင်စားသူတ�
 {% include video id="fVsMIa-AicY" provider="youtube" %}
 
 
+### Solving system of linear equation: Row echelon form and rank
+
+{% include video id="4lJFNlzvkYM" provider="youtube" %}
+
+
 ## Assignments and Reading List
 
 - [Coursera: Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science){:target='_blank'}
