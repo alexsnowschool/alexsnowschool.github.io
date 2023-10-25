@@ -18,7 +18,7 @@ interactivity: Expository
 resource_type: Publication
 based_url: 
 topic:
-  - "Machine-Learning-and-AI"
+  - "DevOps-MLOps-and-Backend"
 tags:
   - Python
   - Git
