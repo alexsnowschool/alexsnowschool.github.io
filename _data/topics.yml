@@ -4,6 +4,16 @@
   slug: ml-ai
   description: "Machine Learning နှင့် AI ကို ဆိုင်တဲ့ သင်ခန်စားများကို စုထည့်ထားပါတယ်။"
 
+- name: "DevOps-MLOps-and-Backend"
+  display_name: "DevOps, MLOps and Backend"
+  slug: devops-mlops-and-backend
+  description: "DevOps, MLOps and Backend Engineering ဘာသာရပ်နဲ့ ဆိုင်တဲ့ သင်ခန်စားများ ဖြစ်ပါတယ်။"
+  
+- name: "Data-Engineering"
+  display_name: "Data Engineering"
+  slug: data-engineering
+  description: "Data Engineering ဘာသာရပ်နဲ့ ဆိုင်တဲ့ သင်ခန်စားများ ဖြစ်ပါတယ်။"
+  
 - name: "Blockchain-and-Web3"
   display_name: "Blockchain and Web3"
   slug: blockchain
@@ -17,13 +27,8 @@
 - name: Economics
   slug: economics
   display_name: "Economics"
-  description: "Economics ဆိုင်ရာ သင်ခန်စားများ ဖြစ်ပါတယ်။"
-  
-- name: "Data-Engineering"
-  display_name: "Data Engineering"
-  slug: data-engineering
-  description: "Data Engineering ဘာသာရပ်နဲ့ ဆိုင်တဲ့ သင်ခန်စားများ ဖြစ်ပါတယ်။"
-  
+  description: "Economics ဆိုင်ရာ သင်ခန်စားများ ဖြစ်ပါတယ်။"  
+
 - name: "Project-Management"
   slug: project-management
   display_name: "Project Management"
