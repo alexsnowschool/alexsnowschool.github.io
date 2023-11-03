@@ -38,6 +38,8 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 
 An online webinar to understand git and its ability to scale Software Development based projects.
 
+{% include video id="GoHPDcgNWBo" provider="youtube" %}
+
 ## Why do we need git?
 
 ### Working in teams
@@ -85,7 +87,6 @@ An online webinar to understand git and its ability to scale Software Developmen
 - Lab-9 Hotfix on a specific version
 - Lab-10 Cherry Pick (If we have time)
 
-{% include video id="GoHPDcgNWBo" provider="youtube" %}
 
 
 ## Assignments and Reading List
