@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Donate နည်းနည်းစီ လုပ်ပြီး
-permalink: /donate/
-excerpt: "မြန်မာ့ လူငယ်များရဲ့ အနာဂတ်ကို ပံ့ပိုးကြပါစို့။"
+title: "AI/ML Study/Career Consultation"
+permalink: /consultation/
+excerpt: "အခုပဲ Book လုပ်ပြီး မိမိတို့ အနာဂတ်အတွက် ပြင်ဆင်ကြစို့။"
 header:
   teaser: /assets/images/HeroImage.png
   overlay_image: /assets/images/HeroImage.png
@@ -13,20 +13,26 @@ header:
 Alex Snow School သည် မြန်မာ လူငယ်များ နည်းပညာဆိုင်ရာ အသိဗဟုသုတများ တိုးပွားရေးကို ဦးစားပေးလုပ်ဆောင်နေပါသည်။
 {: .notice--info}
 
+မြန်မာ့လူငယ်အများအတွက် အကျိုးရှိစေဖို့ ရည်ရွယ်ချက်ဖြင့် အခုလိုမျိုး Consultation Session ကို စတင်လုပ်ဆောင်တာဖြစ်ပါတယ်။
 
+တစ်နာရီ - မြန်မာကျပ်ငွေ **_၁၅၀၀၀_** ကျပ်ဖြင့် Consultation လုပ်ဆောင်နိုင်ပါသည်။
 
-<img src="/assets/images/kpay-logo.webp" alt="Donate with KPay" width="80" height="80" > ဖြင့် Donate လုပ်နိုင်ပါပြီး။
+Consulation fees ကို 
+<img src="/assets/images/kpay-logo.webp" alt="consultation with KPay" width="80" height="80" > ဖြင့် ပေးနိုင်ပါပြီး။
 
 <img src="/assets/images/donate-kpay.jpeg" alt="KPay ID" width="300" height="600" >
 
-<p>PayPal, Stripe ဖြင့်သော်လည်းကောင်း၊ Crypto တွေဖြစ်တဲ့ Ethereum (ERC20) / Tether USTD (BSC) စသည်တို့်ဖြင့်လည်းကောင်း Donate လုပ်နိုင်ကြပါပြီ။</p>
+<p>PayPal ဖြင့်သော်လည်းကောင်း၊ Crypto တွေဖြစ်တဲ့ Ethereum (ERC20) / Tether USTD (BSC) စသည်တို့်ဖြင့်လည်းကောင်း Consultation fees ကို ပေးနိုင်ပါသည်။</p>
 
-<img src="/assets/images/paypal.png" alt="Donate with PayPal" width="160" height="160" >
-[**Donate with PayPal**](https://www.paypal.com/paypalme/alexsnow348){: .btn target="_blank"}
+<img src="/assets/images/paypal.png" alt="Pay with PayPal" width="160" height="160" >
+[**Pay with PayPal**](https://www.paypal.com/paypalme/alexsnow348){: .btn target="_blank"}
 <i class='fas fa-chevron-circle-right'></i>
 
 
-<img src="/assets/images/ether.png" alt="Ethereum ECR20" width="60" height="60">
+ပေးပြီကြောင်း အထောက်အထာဖြစ်သော Receipt ကို [Alex Snow School](https://www.facebook.com/alexsnowschool){:target='_blank'} သို့ ပို့ဆောင်ပြီး Consultation အချိန် ကို ရယူနိုင်ပါသည်။
+
+
+<!-- <img src="/assets/images/ether.png" alt="Ethereum ECR20" width="60" height="60">
 **Ethereum (ERC20)**
 ```
 alexsnowschool.eth
@@ -36,4 +42,4 @@ alexsnowschool.eth
 <strong> Tether USDT (BSC) </strong>
 ```
 0xe58ea057e055bb4babb1a40712bf3dfde0907def
-```
+``` -->
