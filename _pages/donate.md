@@ -32,14 +32,3 @@ Consulation fees ကို
 ပေးပြီကြောင်း အထောက်အထာဖြစ်သော Receipt ကို [Alex Snow School](https://www.facebook.com/alexsnowschool){:target='_blank'} သို့ ပို့ဆောင်ပြီး Consultation အချိန် ကို ရယူနိုင်ပါသည်။
 
 
-<!-- <img src="/assets/images/ether.png" alt="Ethereum ECR20" width="60" height="60">
-**Ethereum (ERC20)**
-```
-alexsnowschool.eth
-```
-
-<img src="/assets/images/usdt.png" alt="USDT BSC" width="60" height="60">
-<strong> Tether USDT (BSC) </strong>
-```
-0xe58ea057e055bb4babb1a40712bf3dfde0907def
-``` -->
