@@ -6,6 +6,7 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
+gem 'faraday-retry', '~> 2.2'
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
