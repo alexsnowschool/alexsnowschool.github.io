@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "AI/ML Study/Career Consultation"
+title: "AI, ML Stud, Career Consultation"
 permalink: /consultation/
-excerpt: "အခုပဲ Book လုပ်ပြီး မိမိတို့ အနာဂတ်အတွက် ပြင်ဆင်ကြစို့။"
+# excerpt: "အခုပဲ Book လုပ်ပြီး မိမိတို့ အနာဂတ်အတွက် ပြင်ဆင်ကြစို့။"
 header:
   teaser: /assets/images/HeroImage.png
   overlay_image: /assets/images/HeroImage.png
@@ -15,7 +15,9 @@ Alex Snow School သည် မြန်မာ လူငယ်များ နည
 
 မြန်မာ့လူငယ်အများအတွက် အကျိုးရှိစေဖို့ ရည်ရွယ်ချက်ဖြင့် အခုလိုမျိုး Consultation Session ကို စတင်လုပ်ဆောင်တာဖြစ်ပါတယ်။
 
-တစ်နာရီ - မြန်မာကျပ်ငွေ **_၁၅၀၀၀_** ကျပ်ဖြင့် Consultation လုပ်ဆောင်နိုင်ပါသည်။
+တစ်နာရီ - မြန်မာကျပ်ငွေ ၁၅၀၀၀ ကျပ်ဖြင့် Consultation လုပ်ဆောင်နိုင်ပါသည်။
+
+"အခုပဲ Book လုပ်ပြီး မိမိတို့ အနာဂတ်အတွက် ပြင်ဆင်ကြစို့။"
 
 Consulation fees ကို 
 <img src="/assets/images/kpay-logo.webp" alt="consultation with KPay" width="80" height="80" > ဖြင့် ပေးနိုင်ပါပြီး။

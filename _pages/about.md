@@ -2,7 +2,7 @@
 layout: single
 title: About
 permalink: /about/
-excerpt: "A Youths' run school for empowering the next generation towards Myanmar economic and technological advancement."
+# excerpt: "A Youths' run school for empowering the next generation towards Myanmar economic and technological advancement."
 header:
   teaser: /assets/images/HeroImage.png
   overlay_image: /assets/images/HeroImage.png

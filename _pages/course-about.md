@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "About our Courses"
-excerpt: "ကျောင်းမှာ လက်ရှိ ပိုချနေတဲ့ သင်ခန်စားများနဲ့ ပတ်သက်ပြီး အောင်ပါဖော်ပြချက်ကို လေ့လာနိုင်ပါတယ်။"
+# excerpt: "ကျောင်းမှာ လက်ရှိ ပိုချနေတဲ့ သင်ခန်စားများနဲ့ ပတ်သက်ပြီး အောင်ပါဖော်ပြချက်ကို လေ့လာနိုင်ပါတယ်။"
 permalink: /courses/about/
 header:
   teaser: /assets/images/HeroImage.png
