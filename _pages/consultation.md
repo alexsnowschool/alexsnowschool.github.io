@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "AI, ML Stud, Career Consultation"
+title: "AI, ML Study, Career Consultation"
 permalink: /consultation/
 # excerpt: "အခုပဲ Book လုပ်ပြီး မိမိတို့ အနာဂတ်အတွက် ပြင်ဆင်ကြစို့။"
 header:
