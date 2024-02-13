@@ -31,6 +31,6 @@ Consulation fees ကို
 <i class='fas fa-chevron-circle-right'></i>
 
 
-ပေးပြီကြောင်း အထောက်အထာဖြစ်သော Receipt ကို [Alex Snow School](https://www.facebook.com/alexsnowschool){:target='_blank'} သို့ ပို့ဆောင်ပြီး Consultation အချိန် ကို ရယူနိုင်ပါသည်။
+ပေးပြီကြောင်း အထောက်အထာဖြစ်သော Receipt ကို [Alex Snow School](https://www.facebook.com/alexsnowschool){:target='_blank'} (သို့မဟုတ်) [Alex Snow](https://www.facebook.com/alexsnow348){:target='_blank'} သို့ ပို့ဆောင်ပြီး Consultation အချိန် ကို ရယူနိုင်ပါသည်။
 
 
