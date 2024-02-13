@@ -24,12 +24,17 @@ Consulation fees ကို
 
 <img src="/assets/images/donate-kpay.jpeg" alt="KPay ID" width="300" height="600" >
 
-<p>PayPal ဖြင့်သော်လည်းကောင်း၊ Crypto တွေဖြစ်တဲ့ Ethereum (ERC20) / Tether USTD (BSC) စသည်တို့်ဖြင့်လည်းကောင်း Consultation fees ကို ပေးနိုင်ပါသည်။</p>
+<p>PayPal ဖြင့်သော်လည်းကောင်း၊ Crypto - Ethereum (ERC20) စသည်တို့်ဖြင့်လည်းကောင်း Consultation fees ကို ပေးနိုင်ပါသည်။</p>
 
 <img src="/assets/images/paypal.png" alt="Pay with PayPal" width="160" height="160" >
 [**Pay with PayPal**](https://www.paypal.com/paypalme/alexsnow348){: .btn target="_blank"}
 <i class='fas fa-chevron-circle-right'></i>
 
+<img src="/assets/images/ether.png" alt="Ethereum ECR20" width="60" height="60">
+**Ethereum (ERC20)**
+```
+alexsnowschool.eth
+```
 
 ပေးပြီးကြောင်း အထောက်အထားဖြစ်သော Receipt ကို [Alex Snow School](https://www.facebook.com/alexsnowschool){:target='_blank'} (သို့မဟုတ်) [Alex Snow](https://www.facebook.com/alexsnow348){:target='_blank'} သို့ ပို့ဆောင်ပြီး Consultation အချိန် ကို ရယူနိုင်ပါသည်။
 
