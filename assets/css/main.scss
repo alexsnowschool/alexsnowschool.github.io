@@ -12,8 +12,8 @@ search: false
 @import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
 
-$serif              : "Padauk", sans-serif;
-$sans-serif-narrow  :  'Padauk', sans-serif;
+$serif              : "century-burma", sans-serif;
+$sans-serif-narrow  :  'century-burma', sans-serif;
 
 $global-font-family : $serif;
 $header-font-ffamily : $sans-serif-narrow;
@@ -43,4 +43,19 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $header-font-ffamily;
+}
+
+@font-face {
+  font-family: "myanmar-mn-regular";
+  src: url("font/myanmar-mn-regular.ttf");
+}
+
+@font-face {
+  font-family: "myanmar-mn-bold";
+  src: url("font/myanmar-mn-bold.ttf");
+}
+
+@font-face {
+  font-family: "century-burma";
+  src: url("font/century-burma.ttf");
 }
