@@ -1,6 +1,6 @@
 ---
 title: Decentralized Finance (DeFi) Primitives
-excerpt: NFT, DeFi လောကကို စတင်တွင်ချင်တဲ့ သူတွေအတွက် မသိမဖြစ် သိထားသင့်တဲ့ concepts တွေကို ဆွေးနွေးထားဖြစ်ပါတယ်။
+excerpt: NFT, DeFi လောကကို စတင်ဝင်ချင်တဲ့ သူတွေအတွက် မသိမဖြစ် သိထားသင့်တဲ့ concepts တွေကို ဆွေးနွေးထားဖြစ်ပါတယ်။
 publisher:
   - Alex Snow School 
 creator:
