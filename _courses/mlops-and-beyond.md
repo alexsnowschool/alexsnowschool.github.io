@@ -1,5 +1,5 @@
 ---
-title: MLOps and Beyound
+title: MLOps and Beyond
 excerpt: MLOps Engineer/AI Engineer တစ်ယောက်အဖြစ် လုပ်ငန်းခွင်ဝင်ချင်သူများ အတွက် လေ့လာသင့်တဲ့ course ပဲဖြစ်ပါတယ်။
 publisher:
   - Alex Snow School
