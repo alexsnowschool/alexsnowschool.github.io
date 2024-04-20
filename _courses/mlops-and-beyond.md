@@ -48,6 +48,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 {% include video id="NIz3GBuTKCs" provider="youtube" %}
 
 
+### What is MLOps?
+
+{% include video id="TkKCBAzHL9c" provider="youtube" %}
+
 ## Reference List
 
 - [MLOps Community](https://home.mlops.community/home?view=explore){:target='\_blank'}
+- [MLOps](https://ml-ops.org/){:target='\_blank'}
