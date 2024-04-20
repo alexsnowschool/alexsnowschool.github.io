@@ -43,7 +43,7 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 ## Week 1
 
-### MLOps Intro
+### MLOps Intro and Study Plan
 
 {% include video id="NIz3GBuTKCs" provider="youtube" %}
 
