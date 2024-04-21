@@ -52,7 +52,15 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="TkKCBAzHL9c" provider="youtube" %}
 
+## Week 2
+
+### ML Project Structure
+
+{% include video id="GXGfmje2Lt0" provider="youtube" %}
+
+
 ## Reference List
 
 - [MLOps Community](https://home.mlops.community/home?view=explore){:target='\_blank'}
 - [MLOps](https://ml-ops.org/){:target='\_blank'}
+- [Kedro](https://kedro.readthedocs.io/en/stable/){:target='\_blank'}
