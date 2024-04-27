@@ -58,8 +58,6 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="GXGfmje2Lt0" provider="youtube" %}
 
-## Week 3
-
 ### Data Versioning with DVC
 
 {% include video id="mXNoHnpiv0U" provider="youtube" %}
