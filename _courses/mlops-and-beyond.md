@@ -58,9 +58,17 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="GXGfmje2Lt0" provider="youtube" %}
 
+## Week 3
+
+### Data Versioning with DVC
+
+{% include video id="mXNoHnpiv0U" provider="youtube" %}
+
 
 ## Reference List
 
 - [MLOps Community](https://home.mlops.community/home?view=explore){:target='\_blank'}
 - [MLOps](https://ml-ops.org/){:target='\_blank'}
 - [Kedro](https://kedro.readthedocs.io/en/stable/){:target='\_blank'}
+- [DVC Course](https://learn.iterative.ai/){:target='\_blank'}
+- [DVC](https://dvc.org/){:target='\_blank'}
