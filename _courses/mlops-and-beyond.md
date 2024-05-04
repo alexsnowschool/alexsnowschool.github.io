@@ -62,6 +62,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="mXNoHnpiv0U" provider="youtube" %}
 
+## Week 3
+
+### MLOps with MLflow - Part 1
+
+{% include video id="YuwlUL4hVX8" provider="youtube" %}
 
 ## Reference List
 
