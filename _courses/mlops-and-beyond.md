@@ -68,6 +68,10 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="YuwlUL4hVX8" provider="youtube" %}
 
+### MLOps with MLflow - Part 2
+
+{% include video id="vP1IMc3BkIo" provider="youtube" %}
+
 ## Reference List
 
 - [MLOps Community](https://home.mlops.community/home?view=explore){:target='\_blank'}
