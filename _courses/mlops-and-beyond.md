@@ -72,6 +72,14 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="vP1IMc3BkIo" provider="youtube" %}
 
+## Week 4
+
+### ML Deployment with Docker
+
+{% include video id="MCZzMSLXnzg" provider="youtube" %}
+
+သုံးထားတဲ့ [code](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main){:target='\_blank'} နဲ့ [data](https://github.com/f6ew/DS-IML-22/tree/main){:target='\_blank'} ဒီမှာ ရယူနိုင်ပါတယ်။
+
 ## Reference List
 
 - [MLOps Community](https://home.mlops.community/home?view=explore){:target='\_blank'}
