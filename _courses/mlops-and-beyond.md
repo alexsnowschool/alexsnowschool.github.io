@@ -78,6 +78,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="MCZzMSLXnzg" provider="youtube" %}
 
+
+### Model Serving with Triton Inference Server 
+
+{% include video id="wwEuVZnW1K4" provider="youtube" %}
+
 သုံးထားတဲ့ [code](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main){:target='\_blank'} နဲ့ [data](https://github.com/f6ew/DS-IML-22/tree/main){:target='\_blank'} တွေပါ။
 
 ## Reference List
