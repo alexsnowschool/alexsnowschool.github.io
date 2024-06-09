@@ -78,12 +78,13 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="MCZzMSLXnzg" provider="youtube" %}
 
+သုံးထားတဲ့ [code](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main){:target='\_blank'} နဲ့ [data](https://github.com/f6ew/DS-IML-22/tree/main){:target='\_blank'} တွေပါ။
+
 
 ### Model Serving with Triton Inference Server 
 
 {% include video id="wwEuVZnW1K4" provider="youtube" %}
 
-သုံးထားတဲ့ [code](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main){:target='\_blank'} နဲ့ [data](https://github.com/f6ew/DS-IML-22/tree/main){:target='\_blank'} တွေပါ။
 
 ## Reference List
 
@@ -92,3 +93,4 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 - [Kedro](https://kedro.readthedocs.io/en/stable/){:target='\_blank'}
 - [DVC Course](https://learn.iterative.ai/){:target='\_blank'}
 - [DVC](https://dvc.org/){:target='\_blank'}
+- [Triton Sever Tutorial](https://github.com/triton-inference-server/tutorials){:target='\_blank'}
