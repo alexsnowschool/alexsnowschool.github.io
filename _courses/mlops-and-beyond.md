@@ -93,4 +93,4 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 - [Kedro](https://kedro.readthedocs.io/en/stable/){:target='\_blank'}
 - [DVC Course](https://learn.iterative.ai/){:target='\_blank'}
 - [DVC](https://dvc.org/){:target='\_blank'}
-- [Triton Sever Tutorial](https://github.com/triton-inference-server/tutorials){:target='\_blank'}
+- [Triton Sever Tutorial](https://github.com/triton-inference-server/tutorials){:target='\_blank'} 
