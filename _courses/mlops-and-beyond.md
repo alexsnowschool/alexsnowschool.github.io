@@ -81,9 +81,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 သုံးထားတဲ့ [code](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main){:target='\_blank'} နဲ့ [data](https://github.com/f6ew/DS-IML-22/tree/main){:target='\_blank'} တွေပါ။
 
 
-### Model Serving with Triton Inference Server 
+## Cloud
 
-{% include video id="wwEuVZnW1K4" provider="youtube" %}
+### MLOps with Microsoft Azure Machine Learning
+
+{% include video id="Jlhr4iuWjmY" provider="youtube" %}
 
 
 ## Reference List
