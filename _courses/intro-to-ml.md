@@ -109,4 +109,4 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 - [Lecture Slides](https://drive.google.com/drive/folders/1mwkAf0UhnlgBhx5GB5fagCTlAMF1Tfuo?usp=sharing){:target='_blank'}
 - [GitHub: Introduction to Machine Learning](https://github.com/alexsnowschool/introduction-to-machine-learning){:target='_blank'}
 - [Machine Learning Yearning](https://drive.google.com/file/d/1s1tasgwaEgh4LVAYZ-AEu5nJrvueBQiN/view?usp=sharing){:target='_blank'}
-
+- [Multi-class classification with MNIST.ipynb](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/multi-class_classification_with_MNIST.ipynb?hl=en/){:target='_blank'}
