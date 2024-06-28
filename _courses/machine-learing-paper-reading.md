@@ -38,12 +38,49 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 
 ## Machine Learning Paper Reading
 
-### FaceNet: 
+### 🥬 Metric Learning
+
+#### FaceNet: A Unified Embedding for Face Recognition and Clustering
 
 Face Recognition ကို စိတ်ဝင်စားသူတိုင်လေ့လာ သင့်တဲ့ paper လေဖြစ်လို့ အားလုံးအတွက် အကျိုးရှိအောင် ရှယ်ပေးလိုက်ပါတယ်။ 
 
+{% include video id="w05oosmFsxM" provider="youtube" %}
 - [Original Paper](https://arxiv.org/abs/1503.03832){:target='_blank'}
 - [Explaination PDF](https://drive.google.com/file/d/1TwXJgNqA-nfcGyrZ_OlpBIshMgiJu82z/view?usp=sharing){:target='_blank'}
 - [Implementation](https://github.com/alexsnow348/facetag){:target='_blank'}
 
-{% include video id="w05oosmFsxM" provider="youtube" %}
+
+### 🌼 Self-Supervised Learning
+
+#### 1. SimCLR: A Simple Framework for Contrastive Learning of Visual Representations
+
+SimCLR က Self-Supervised Learning ကို လေ့လာတဲ့အခါ မသိမဖြစ်သိထားသင့်တဲ့ paper လေဖြစ်ပါတယ်။ 
+
+{% include video id="l8E_r9MkrCA" provider="youtube" %}
+
+- [The Illustrated SimCLR Framework](https://amitness.com/posts/simclr){:target='_blank'}
+- [NT-Xent Loss](https://towardsdatascience.com/nt-xent-normalized-temperature-scaled-cross-entropy-loss-explained-and-implemented-in-pytorch-cc081f69848){:target='_blank'}
+- [Google Slides](https://docs.google.com/presentation/d/1ccddJFD_j3p3h0TCqSV9ajSi2y1yOfh0-lJoK29ircs/edit#slide=id.g8c1b8d6efd_0_1){:target='_blank'}
+
+
+#### 2. BYOL: Bootstrap Your Own Latent
+
+BYOL က SimCLR က မှာ collapse (trivial constant solution) ပြဿနာကို ဖြေရှင်ဖို့ လိုအပ်တဲ့ negative pairs  ကို avoids လုပ်ဖို့ အဓိက ထားပြီး design လုပ်ထားတာဖြစ်ပါတယ်။
+
+{% include video id="1BJmQxHuRgs" provider="youtube" %}
+
+- [Original Paper](https://arxiv.org/pdf/2006.07733){:target='_blank'}
+- [Towards Data Science Explanation](https://towardsdatascience.com/byol-the-alternative-to-contrastive-self-supervised-learning-5d0a26983d7c
+){:target='_blank'}
+
+
+#### 3. SimSiam: Exploring Simple Siamese Representation Learning
+
+SimSiam Method က SimCLR, BYOL တိုမှာ ပါတဲ့ complicated methods တွေကို အလွယ်ကူဆုံး  simple siamese network ဖြင့် အစားထို ဖြေရှင်ထားတဲ့ နည်းလမ်းတစ်ခုပဲဖြစ်ပါတယ်။
+
+{% include video id="mBrzoPHl-BI" provider="youtube" %}
+
+- [Explanation Slide](https://drive.google.com/file/d/1GMkDr77fA0H4EvUnRAGjucJMEFxWVQ7o/view?usp=sharing){:target='_blank'}
+- [Original Paper](https://arxiv.org/abs/2011.10566){:target='_blank'}
+- [Towards Data Science Explanation](https://sh-tsang.medium.com/review-simsiam-exploring-simple-siamese-representation-learning-3c84ceb61702){:target='_blank'}
+
