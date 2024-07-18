@@ -15,7 +15,7 @@ main:
   - title: "Newsletter"
     url: https://alexsnowschool.substack.com/
     target: "_blank"
-  - title: "Consultation"
-    url: /consultation/
-    # target: "_blank"
+  - title: "Podcast"
+    url: https://alexsnow348.github.io/podcasts/index.html
+    target: "_blank"
 
