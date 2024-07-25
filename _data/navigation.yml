@@ -4,8 +4,8 @@ main:
     url: /courses/
   - title: "Roadmap"
     url: /roadmap/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Prototyping"
+    url: /prototyping/
   - title: "Lab"
     url: https://github.com/alexsnowschool
     target: "_blank"
