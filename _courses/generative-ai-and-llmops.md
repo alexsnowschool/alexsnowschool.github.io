@@ -8,7 +8,7 @@ creator:
 
 date: 2024-07-19
 modified: 2024-07-19
-difficulty: Beginner
+difficulty: Intermediate
 state: "ready"
 license: PD
 audience:
@@ -47,12 +47,16 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="FdxBdE3YevA" provider="youtube" %}
 
-သုံးထားတဲ့ [code](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/tree/main){:target='\_blank'} ပါ။
+### LLM pre-training and scaling laws
+
+{% include video id="pPReFUDngNo" provider="youtube" %}
+
 
 
 
 ## Reference List
 
 - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms){:target='\_blank'}
+- [Related Gen (AI) codebase](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/tree/main){:target='\_blank'}
 - [Transformers: Attention is All You Need](https://arxiv.org/abs/1706.03762){:target='\_blank'}
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/){:target='\_blank'}
