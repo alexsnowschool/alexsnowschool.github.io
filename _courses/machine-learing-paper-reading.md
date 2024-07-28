@@ -84,3 +84,14 @@ SimSiam Method က SimCLR, BYOL တိုမှာ ပါတဲ့ complicated m
 - [Original Paper](https://arxiv.org/abs/2011.10566){:target='_blank'}
 - [Towards Data Science Explanation](https://sh-tsang.medium.com/review-simsiam-exploring-simple-siamese-representation-learning-3c84ceb61702){:target='_blank'}
 
+
+### 👩🏻‍🎓 Knowledge Distillation
+
+#### 1. Knowledge Distillation: A Survey
+
+Knowledge Distillation ဆိုင်ရာ သိသင့် သိထိုက်သော အခြေခံ concept တွေကို နာလည်းဖို့ အတွက် ဖတ်သင့်တဲ့ paper လေ တစ်ခုပဲ ဖြစ်ပါတယ်။
+
+{% include video id="0LtoRcXcudc" provider="youtube" %}
+
+- [Explanation Slide](https://drive.google.com/file/d/1qoMhFWrcDK3jjOuWnv2863XeJwIs1bJ5/view?usp=drive_link){:target='_blank'}
+- [Original Paper](https://arxiv.org/abs/2006.05525){:target='_blank'}
