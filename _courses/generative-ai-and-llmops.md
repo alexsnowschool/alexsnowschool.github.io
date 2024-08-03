@@ -51,6 +51,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="pPReFUDngNo" provider="youtube" %}
 
+## Week 2
+
+### Fine-tuning and evaluating large language models (LLM)
+
+{% include video id="BZbmjW-p7Pc" provider="youtube" %}
 
 
 
@@ -60,3 +65,4 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 - [Related Gen (AI) codebase](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/tree/main){:target='\_blank'}
 - [Transformers: Attention is All You Need](https://arxiv.org/abs/1706.03762){:target='\_blank'}
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/){:target='\_blank'}
+- [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction){:target='\_blank'}
