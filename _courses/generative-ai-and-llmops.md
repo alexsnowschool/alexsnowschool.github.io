@@ -57,6 +57,10 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="BZbmjW-p7Pc" provider="youtube" %}
 
+### Parameter efficient fine-tuning (PEFT)
+
+{% include video id="qZ6Qv39IUVw" provider="youtube" %}
+
 
 
 ## Reference List
@@ -66,3 +70,5 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 - [Transformers: Attention is All You Need](https://arxiv.org/abs/1706.03762){:target='\_blank'}
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/){:target='\_blank'}
 - [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction){:target='\_blank'}
+- [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization7){:target='\_blank'}
+- [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained){:target='\_blank'}
