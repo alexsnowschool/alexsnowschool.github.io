@@ -61,7 +61,11 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="qZ6Qv39IUVw" provider="youtube" %}
 
+## Week 3
 
+### Reinforcement learning and LLM-powered applications
+
+{% include video id="8JGbJFbbtaY" provider="youtube" %}
 
 ## Reference List
 
