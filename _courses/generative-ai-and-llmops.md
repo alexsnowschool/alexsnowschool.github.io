@@ -67,6 +67,14 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="8JGbJFbbtaY" provider="youtube" %}
 
+### LLM-powered applications
+
+{% include video id="mhyP47CCp0g" provider="youtube" %}
+
+
+- Knowledge Distillation ကို ပိုစိတ်ဝင်စားပြီး အသေးစိတ်လေ့လာလိုသူများအတွက် [ဒီမှာကြည့်နိုင်ပါတယ်။](https://www.youtube.com/watch?v=0LtoRcXcudc){:target='\_blank'}။
+- Quantization ကို ပိုလေ့လာလိုသူများအတွက် [ဒီမှာကြည့်ပါနော်။](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization){:target='\_blank'} တွေပါ။
+
 ## Reference List
 
 - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms){:target='\_blank'}
