@@ -31,7 +31,7 @@ A Youths' run school for empowering the next generation towards Myanmar economic
 
 ### ဘယ်သူတွေက ဦးဆောင်နေတာလဲ။
 
-အခု project ကို [Alex Snow](https://www.linkedin.com/in/wuthmonehninhlaing/){:target='_blank'} နဲ့ အခြေားသော voluntters များက အတူတူ လုပ်ဆောင်နေပါတယ်။
+အခု project ကို [Alex Snow](https://www.linkedin.com/in/wuthmonehninhlaing/){:target='_blank'} နဲ့ အခြေားသော volunteers များက အတူတူ လုပ်ဆောင်နေပါတယ်။
 
 
 > တစ်ရက်နည်းနည်းစီ တဖြည်းဖြည်း အတူတူလေ့လာကြစို့။
