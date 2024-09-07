@@ -20,6 +20,7 @@ resource_type: Publication
 based_url:
 topic:
   - "DevOps-MLOps-and-Backend"
+  - "Machine-Learning-and-AI"
 tags:
   - MLOps
   - LLMOps
