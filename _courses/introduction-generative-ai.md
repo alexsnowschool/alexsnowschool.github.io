@@ -45,7 +45,7 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 ### Generative AI ဆိုတာ
 
-{% include video id="FdxBdE3YevA" provider="youtube" %}
+{% include video id="3Jwx5uV2iTA" provider="youtube" %}
 
 
 ## Reference List
