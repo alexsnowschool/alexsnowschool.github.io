@@ -52,6 +52,12 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="V6_u6w6iVsM" provider="youtube" %}
 
+## Week 2
+
+### Advanced Prompt Engineering
+
+{% include video id="Bmh9O2PF5Dg" provider="youtube" %}
+
 ## Reference List
 
 - [Coursera: ](https://www.coursera.org/learn/intro-gen-ai/){:target='\_blank'}
