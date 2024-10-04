@@ -22,7 +22,7 @@ Alex Snow School သည် မြန်မာ လူငယ်များ နည
 Consulation fees ကို 
 <img src="/assets/images/kpay-logo.webp" alt="consultation with KPay" width="80" height="80" > ဖြင့် ပေးနိုင်ပါပြီး။
 
-<img src="/assets/images/donate-kpay.jpeg" alt="KPay ID" width="300" height="600" >
+<img src="/assets/images/donate-kpay.jpg" alt="KPay ID" width="300" height="600" >
 
 <p>PayPal ဖြင့်သော်လည်းကောင်း၊ Crypto - Ethereum (ERC20) စသည်တို့်ဖြင့်လည်းကောင်း Consultation fees ကို ပေးနိုင်ပါသည်။</p>
 
