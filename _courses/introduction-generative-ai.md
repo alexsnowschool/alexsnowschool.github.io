@@ -58,8 +58,15 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="Bmh9O2PF5Dg" provider="youtube" %}
 
+### Generative AI applications and Intro to RAG
+
+{% include video id="qrhIdRJsdrI" provider="youtube" %}
+
+
 ## Reference List
 
-- [Coursera: ](https://www.coursera.org/learn/intro-gen-ai/){:target='\_blank'}
+- [Coursera: Introduction to Gen AI ](https://www.coursera.org/learn/intro-gen-ai/){:target='\_blank'}
 - [Slide: Generative AI ဆိုတာ](https://drive.google.com/file/d/1Vo-KQ94EuRnR8mxzx6hVFEQFt6nPvMsr/view?usp=sharing){:target='\_blank'}
 - [Slide: Gen (AI) Landscape and Prompt Engineering](https://drive.google.com/file/d/1WV-Kv404bA8nlXszUzj0bDoghHPlrrpw/view?usp=drive_link){:target='\_blank'}
+- [Slide: Advanced Prompt Engineering](https://drive.google.com/file/d/1FKpgpLiD4pB6c0k2DC7pVJUw-zWtbOxz/view?usp=drive_link){:target='\_blank'}
+- [Slide: Generative AI applications and Intro to RAG](https://drive.google.com/file/d/1XGEe9K1bX8CqfGETqc-5FSwIlMPDzTZe/view?usp=drive_link){:target='\_blank'}
