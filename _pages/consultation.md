@@ -27,7 +27,7 @@ Consulation fees ကို
 <p>PayPal ဖြင့်သော်လည်းကောင်း၊ Crypto - Ethereum (ERC20) စသည်တို့်ဖြင့်လည်းကောင်း Consultation fees ကို ပေးနိုင်ပါသည်။</p>
 
 <img src="/assets/images/paypal.png" alt="Pay with PayPal" width="160" height="160" >
-[**Pay with PayPal**](https://www.paypal.com/paypalme/alexsnow348){: .btn target="_blank"}
+[**Pay with PayPal**](https://www.paypal.com/paypalme/alexsnow2024){: .btn target="_blank"}
 <i class='fas fa-chevron-circle-right'></i>
 
 <img src="/assets/images/ether.png" alt="Ethereum ECR20" width="60" height="60">
