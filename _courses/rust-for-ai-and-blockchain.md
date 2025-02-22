@@ -60,7 +60,13 @@ Pre-perquisite: ဒီ course ကို Computer Science အခြေခံရ�
 
 {% include video id="88KpyLNk5BQ" provider="youtube" %}
 
+### Error Handling, Struct
+
+{% include video id="gjwZ-InAKQw" provider="youtube" %}
+
 ## Reference List
 
 - [Rust Programming Specialization](https://www.coursera.org/specializations/rust-programming){:target='\_blank'}
 - [Rust Programming Fundamentals Code Repo](https://github.com/alexsnow348/rust-fundamentals){:target='\_blank'}
+
+- [Rust Structs, Type Enums Code Repo](https://github.com/alexsnow348/rust-structs-types-enums){:target='\_blank'}
