@@ -15,7 +15,7 @@ main:
   # - title: "Consultation"
   #   url: /consultation/
   #   target: "_blank"
-  # - title: "Shop"
-  #   url: https://alexsnowschool.super.site/
-  #   target: "_blank"
+  - title: "Journal"
+    url: https://alexsnow348.github.io/blog/
+    target: "_blank"
 
