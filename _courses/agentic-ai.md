@@ -7,7 +7,7 @@ creator:
   - Alex Snow
 
 date: 2025-06-29
-modified: 2025-07-19
+modified: 2025-08-30
 difficulty: Intermediate
 state: "ready"
 license: PD
@@ -54,6 +54,13 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 ### Agents and Agentic Design Patterns
 
 {% include video id="OjE7jbiTx3A" provider="youtube" %}
+
+
+## Week 2
+
+### Agentic AI Frameworks
+
+{% include video id="iiWcfkio6eA" provider="youtube" %}
 
 ## Reference List
 
