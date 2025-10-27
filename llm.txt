@@ -1,0 +1,179 @@
+# Alex Snow School - LLM Context File
+
+> A Youths' run school for empowering the next generation towards Myanmar economic and technological advancement.
+
+## About Alex Snow School
+
+Alex Snow School is an educational initiative focused on bridging the skills gap for fresh STEM graduates in Myanmar through peer-to-peer community learning approaches. The school provides free, high-quality courses in technology, economics, and finance to empower young professionals with modern technical skills and financial literacy.
+
+**Website:** https://alexsnowschool.github.io
+**Location:** Yangon, Myanmar
+**Contact:** alexsnow348@gmail.com
+
+### Mission
+
+The project addresses two main challenges facing technological university graduates in Myanmar:
+1. Need for quality education, especially in rural technical universities
+2. Lack of experiences and required up-to-date technological skill sets
+
+The school also aims to enhance financial literacy among millennials and young professionals for better personal finance and investment decisions.
+
+### Achievements
+
+- Falling Wall Lab Myanmar 2020 Winner
+- Gold Medal in Startup Category @ RICES MMU 2020
+
+## Course Categories
+
+### 1. Machine Learning and AI
+Courses covering machine learning fundamentals, deep learning, neural networks, computer vision, natural language processing, and generative AI technologies.
+
+**Featured Courses:**
+- Agentic AI (Intermediate)
+- Introduction to Machine Learning (Beginner)
+- Neural Networks and Deep Learning
+- Improving Deep Neural Networks
+- Convolutional Neural Networks (CNN)
+- Sequence Models & NLP
+- Computer Vision with OpenCV and Python
+- Generative AI and LLMOps
+- Introduction to Generative AI
+- Machine Learning Paper Reading
+
+### 2. DevOps, MLOps and Backend
+Courses on modern software development practices, machine learning operations, and backend engineering.
+
+**Featured Courses:**
+- MLOps and Beyond
+- MLflow for Machine Learning Tutorial
+- Generative AI and LLMOps
+- Open Source LLMOps Solutions
+
+### 3. Data Engineering
+Courses covering data pipelines, data warehousing, big data processing, and cloud data platforms.
+
+**Featured Courses:**
+- Data Engineer Road Map
+- GCP Big Data and ML Fundamentals
+- GCP Modernizing Data Lakes and Data Warehouses
+- Python for Data Science & AI Development
+- Python Project for Data Science
+- Tools for Data Science
+- Statistics for Data Science with Python
+
+### 4. Blockchain and Web3
+Courses on blockchain technology, cryptocurrency, decentralized finance, and Web3 development.
+
+**Featured Courses:**
+- Blockchain Engineer (LearnWeb3)
+- Introduction to AI Developer (LearnWeb3)
+- Blockchain and Cryptocurrency Explained
+- Blockchain, Web3, JavaScript & Ethers
+- Decentralized Finance (DeFi) Infrastructure
+- Decentralized Finance (DeFi) Primitives
+- Rust for AI and Blockchain
+
+### 5. Financial Technology (FinTech)
+Courses on the intersection of finance and technology, payment systems, and digital finance.
+
+**Featured Courses:**
+- The Future of Payment Technologies
+- Digital Competition in Financial Services
+
+### 6. Economics
+Fundamental and advanced economics courses for understanding economic principles.
+
+**Featured Courses:**
+- Economics of Money and Banking
+- Grade 10 Economics
+- The Cartoon Introduction of Macroeconomics
+- The Cartoon Introduction of Microeconomics
+- The Bitcoin Standard: The Decentralized Alternative to Central Banking
+
+### 7. Project Management
+Courses for aspiring project managers on planning, execution, and delivery.
+
+**Featured Courses:**
+- Initiating and Planning Projects
+- Budgeting and Scheduling Projects
+
+### 8. Programming Fundamentals
+Foundation courses for beginners in programming and software development.
+
+**Featured Courses:**
+- Introduction to Python Basics
+- Python Beginner
+- Introduction to Git
+- TensorFlow Beginner
+
+## Site Structure
+
+### Main Collections
+- **Courses (_courses/)**: Educational course content with video lectures, assignments, and resources
+- **Tools (_tools/)**: Educational tools and utilities
+- **Posts**: Blog posts and updates
+
+### Key Pages
+- **Home (/)**: Featured courses and recent updates
+- **Courses (/courses/)**: Complete course catalog
+- **Tags (/courses/tag/)**: Browse courses by tags
+- **Categories (/categories/)**: Browse content by category
+
+## Technical Details
+
+### Platform
+- Built with Jekyll static site generator
+- Theme: Minimal Mistakes
+- Hosted on GitHub Pages
+- Repository: alexsnowschool/alexsnowschool.github.io
+
+### Features
+- Video content integration (YouTube)
+- Social media integration (Facebook, Twitter)
+- Comments system (Giscus)
+- Search functionality
+- Table of contents for long content
+- Tag and category taxonomies
+- Google Analytics tracking
+
+### Content Format
+Courses are structured with:
+- Title and excerpt
+- Difficulty level (Beginner, Intermediate, Advanced)
+- Prerequisites
+- Learning objectives
+- Week-by-week curriculum
+- Video lectures
+- Assignments and projects
+- Resource links
+
+### Supported Tags
+MLOps, LLMOps, Generative AI, Large Language Model, GPT, Agent, Machine Learning, Deep Learning, Neural Networks, CNN, RNN, NLP, Computer Vision, Blockchain, Web3, DeFi, Python, TensorFlow, Data Engineering, Economics, FinTech, Project Management
+
+## Target Audience
+- Fresh STEM graduates in Myanmar
+- Computer science students
+- IT professionals seeking upskilling
+- Young professionals interested in technology careers
+- Those interested in financial literacy and investment
+
+## Content Languages
+- Primary: Myanmar (Burmese)
+- Secondary: English
+
+## Community
+- Facebook Group: Alex Snow School
+- YouTube Channel: UCDevda3uD7zqwH9pfSkDtxQ
+- Twitter: @alexsnowschool
+- GitHub: @alexsnowschool
+
+## Philosophy
+
+"တစ်ရက်နည်းနည်းစီ တဖြည်းဖြည်း အတူတူလေ့လာကြစို့။"
+(Learn together, little by little, day by day.)
+
+The school emphasizes peer-to-peer learning, practical project-based education, and building real-world skills while solving social problems. All content is provided free of charge to empower the next generation of Myanmar's technology workforce.
+
+---
+
+This file was created to help Large Language Models understand the structure, content, and purpose of Alex Snow School's educational platform.
