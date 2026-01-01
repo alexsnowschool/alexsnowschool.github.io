@@ -20,6 +20,7 @@ resource_type: Publication
 based_url:
 topic:
   - "Data-Engineering"
+  - "DevOps-MLOps-and-Backend"
 tags:
   - Data Engineering
 header:
