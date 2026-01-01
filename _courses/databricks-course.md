@@ -1,6 +1,6 @@
 ---
 title: Databricks Architecture 
-excerpt: Data Engineer တစ်ယောက်အဖြစ် လုပ်ငန်းခွင်ဝင်ချင်သူများ အတွက် စပြီး လေ့လာသင့်တဲ့ course ပဲဖြစ်ပါတယ်။
+excerpt: Data Engineer, MLOps တစ်ယောက်အဖြစ် လုပ်ငန်းခွင်ဝင်ချင်သူများ အတွက် စပြီး လေ့လာသင့်တဲ့ course ပဲဖြစ်ပါတယ်။
 publisher:
   - Alex Snow School
 creator:
