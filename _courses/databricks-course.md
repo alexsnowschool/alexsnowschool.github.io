@@ -44,7 +44,9 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 {% include video id="7S-ox--PWWM" provider="youtube" %}
 
 
+### Databricks: Lakehouses
 
+{% include video id="YcX5NB05HkY" provider="youtube" %}
 
 
 ## Reference List
