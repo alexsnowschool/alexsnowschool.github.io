@@ -51,5 +51,6 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 ## Reference List
 
+- [Week 1: Databricks Fundamentals](https://drive.google.com/file/d/1R-hGyCqojtcqMvAaRoKC6cX_G8xLqNTF/view?usp=sharing){:target='\_blank'}
 - [Databricks](https://www.databricks.com/learn){:target='\_blank'}
 
