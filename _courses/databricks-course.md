@@ -37,16 +37,21 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include toc title="Contents" %}
 
-## Week 1
+## Week 1: Databricks Fundamentals  
 
-### Databricks: the Story
+### 1. Databricks: the Story
 
 {% include video id="7S-ox--PWWM" provider="youtube" %}
 
 
-### Databricks: Lakehouses
+### 2. Databricks: Lakehouses
 
 {% include video id="YcX5NB05HkY" provider="youtube" %}
+
+### 3. Databricks: Architecture
+
+{% include video id="F1Mb_Igj16w" provider="youtube" %}
+
 
 
 ## Reference List
