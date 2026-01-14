@@ -50,7 +50,7 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 ### 3. Databricks: Architecture
 
-{% include video id="F1Mb_Igj16w" provider="youtube" %}
+{% include video id="r1AGmH452AI" provider="youtube" %}
 
 
 
