@@ -52,6 +52,9 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="r1AGmH452AI" provider="youtube" %}
 
+### 4. Databricks: Products and Features - Security and Governance
+
+{% include video id="wGUjnk5GCfU" provider="youtube" %}
 
 
 ## Reference List
