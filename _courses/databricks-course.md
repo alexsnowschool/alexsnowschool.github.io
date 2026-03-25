@@ -56,7 +56,9 @@ Pre-perquisite: ဒီ course ကို Computer Science, Python အခြေခ
 
 {% include video id="wGUjnk5GCfU" provider="youtube" %}
 
-### 5. Databricks: Machine Learning, MLflow
+## Week 2: MLOps in Databricks 
+
+### 1. Databricks: Machine Learning, MLflow
 
 {% include video id="P8NaVI-So0U" provider="youtube" %}
 
